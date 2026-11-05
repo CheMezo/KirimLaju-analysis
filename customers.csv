@@ -1,0 +1,601 @@
+customer_id;name;customer_type;email;phone;address;city;province;registration_date
+CUS0001;UD Karya Utama Mart;business;info@karyautama59.co.id;4118031780;Jl. Mangga No. 80;Semarang;Jawa Tengah;25/04/2021
+CUS0002;UD Sinar Terang Niaga;business;info@sinarterang79.co.id;2745693260;Jl. Thamrin No. 190;Semarang;Jawa Tengah;29/04/2022
+CUS0003;CV Cipta Karya Group;business;info@ciptakarya47.co.id;227162857;Jl. Kenanga No. 184;Semarang;Jawa Tengah;20/03/2021
+CUS0004;CV Anugerah Mulia Group;business;info@anugerahmulia16.co.id;3612538024;Jl. Raya Bogor No. 109;Medan;Sumatera Utara;04/05/2020
+CUS0005;Hadi Simatupang;individual;hadi.simatupang995@gmail.com;81532931839;Jl. Merdeka No. 120;Jakarta;DKI Jakarta;07/08/2023
+CUS0006;PT Inti Makmur;business;info@intimakmur36.co.id;313180906;Jl. Kenanga No. 129;Surabaya;Jawa Timur;03/11/2021
+CUS0007;Indah Manurung;individual;indah.manurung888@gmail.com;83053950240;Jl. Diponegoro No. 216;Denpasar;Bali;23/12/2020
+CUS0008;Indah Nasution;individual;indah.nasution66@yahoo.com;88589178390;Jl. Pajajaran No. 267;Medan;Sumatera Utara;13/12/2022
+CUS0009;CV Kencana Sari;business;info@kencanasari8.co.id;3617738019;Jl. Cendrawasih No. 56;Medan;Sumatera Utara;09/09/2021
+CUS0010;Ratih Mahendra;individual;ratih.mahendra455@gmail.com;82592124998;Jl. Margonda No. 167;Jakarta;DKI Jakarta;01/10/2022
+CUS0011;UD Nusantara Indah Trading;business;info@nusantaraindah59.co.id;2742663938;Jl. Margonda No. 59;Pekanbaru;Riau;19/02/2022
+CUS0012;UD Putra Mandiri Group;business;info@putramandiri56.co.id;3614833486;Jl. Cendrawasih No. 174;Surabaya;Jawa Timur;02/09/2023
+CUS0013;CV Tunas Harapan Indonesia;business;info@tunasharapan41.co.id;2746243275;Jl. Raya Bogor No. 131;Jakarta;DKI Jakarta;17/07/2022
+CUS0014;Putri Manurung;individual;putri.manurung946@yahoo.com;82111615280;Jl. Mangga No. 288;Banjarmasin;Kalimantan Selatan;05/02/2022
+CUS0015;CV Tirta Bening Indonesia;business;info@tirtabening53.co.id;4118095702;Jl. Pajajaran No. 27;Medan;Sumatera Utara;24/02/2023
+CUS0016;UD Bintang Timur Logistic;business;info@bintangtimur14.co.id;243595941;Jl. Raya Bogor No. 247;Manado;Sulawesi Utara;12/08/2021
+CUS0017;PT Rejeki Lancar Logistic;business;info@rejekilancar15.co.id;614794319;Jl. Cendrawasih No. 288;Jakarta;DKI Jakarta;04/04/2021
+CUS0018;Yanti Simatupang;individual;yanti.simatupang692@outlook.com;89094024455;Jl. Sudirman No. 93;Denpasar;Bali;20/04/2024
+CUS0019;Dani Manurung;individual;dani.manurung411@gmail.com;83018366752;Jl. Gajah Mada No. 160;Jakarta;DKI Jakarta;20/10/2020
+CUS0020;CV Cendana Wangi Indonesia;business;info@cendanawangi7.co.id;313640899;Jl. Setiabudi No. 26;Jakarta;DKI Jakarta;17/01/2024
+CUS0021;Rina Permana;individual;rina.permana454@outlook.com;87797643815;Jl. Cendrawasih No. 57;Jakarta;DKI Jakarta;12/10/2023
+CUS0022;UD Tirta Bening Niaga;business;info@tirtabening68.co.id;611761976;Jl. Veteran No. 203;Bandung;Jawa Barat;03/08/2021
+CUS0023;Dewi Pratama;individual;dewi.pratama210@yahoo.com;84244510762;Jl. Diponegoro No. 195;Medan;Sumatera Utara;12/05/2023
+CUS0024;Ratih Nugroho;individual;ratih.nugroho513@outlook.com;86160607159;Jl. Cendrawasih No. 294;Manado;Sulawesi Utara;26/12/2022
+CUS0025;UD Kencana Sari Mart;business;info@kencanasari38.co.id;227795314;Jl. Sudirman No. 167;Balikpapan;Kalimantan Timur;08/04/2022
+CUS0026;Yanti Yuliana;individual;yanti.yuliana852@outlook.com;86161369681;Jl. Imam Bonjol No. 159;Surabaya;Jawa Timur;17/12/2020
+CUS0027;CV Jaya Makmur Logistic;business;info@jayamakmur22.co.id;229564488;Jl. Kebon Jeruk No. 59;Surabaya;Jawa Timur;07/03/2024
+CUS0028;UD Mitra Sejati Logistic;business;info@mitrasejati45.co.id;314963933;Jl. Asia Afrika No. 75;Manado;Sulawesi Utara;22/12/2022
+CUS0029;PT Berkah Sejahtera Sentosa;business;info@berkahsejahtera98.co.id;223972018;Jl. Setiabudi No. 253;Surabaya;Jawa Timur;08/06/2021
+CUS0030;UD Cendana Wangi Niaga;business;info@cendanawangi88.co.id;4116303930;Jl. Diponegoro No. 226;Medan;Sumatera Utara;08/08/2022
+CUS0031;CV Cipta Karya Trading;business;info@ciptakarya36.co.id;216904610;Jl. Anggrek No. 38;Makassar;Sulawesi Selatan;19/05/2020
+CUS0032;Linda Yuliana;individual;linda.yuliana39@gmail.com;86411998679;Jl. Kenanga No. 22;Jakarta;DKI Jakarta;27/09/2021
+CUS0033;UD Kencana Sari Group;business;info@kencanasari42.co.id;3619411547;Jl. Diponegoro No. 32;Pekanbaru;Riau;10/07/2022
+CUS0034;Bayu Sembiring;individual;bayu.sembiring921@yahoo.com;82820377889;Jl. Pahlawan No. 187;Surabaya;Jawa Timur;11/07/2022
+CUS0035;Eko Putri;individual;eko.putri419@yahoo.com;81515186449;Jl. Diponegoro No. 171;Jakarta;DKI Jakarta;02/02/2022
+CUS0036;UD Tirta Bening Sentosa;business;info@tirtabening45.co.id;617575963;Jl. Diponegoro No. 44;Medan;Sumatera Utara;15/06/2020
+CUS0037;UD Mandiri Sentosa Logistic;business;info@mandirisentosa17.co.id;228103580;Jl. Anggrek No. 186;Jakarta;DKI Jakarta;26/09/2021
+CUS0038;CV Bintang Timur Sentosa;business;info@bintangtimur28.co.id;4119158272;Jl. Merdeka No. 116;Makassar;Sulawesi Selatan;07/02/2020
+CUS0039;Putri Saputra;individual;putri.saputra303@gmail.com;89880592962;Jl. Pahlawan No. 93;Denpasar;Bali;08/10/2020
+CUS0040;Vina Simatupang;individual;vina.simatupang829@gmail.com;88065379473;Jl. Kenanga No. 123;Surabaya;Jawa Timur;19/11/2023
+CUS0041;CV Putra Mandiri Group;business;info@putramandiri48.co.id;3618745704;Jl. Setiabudi No. 145;Surabaya;Jawa Timur;25/09/2021
+CUS0042;CV Nusantara Indah Mart;business;info@nusantaraindah21.co.id;243321942;Jl. Ahmad Yani No. 27;Jakarta;DKI Jakarta;12/05/2024
+CUS0043;CV Permata Hijau Logistic;business;info@permatahijau71.co.id;229655523;Jl. Asia Afrika No. 146;Makassar;Sulawesi Selatan;06/08/2023
+CUS0044;PT Anugerah Mulia Niaga;business;info@anugerahmulia66.co.id;318339571;Jl. Gatot Subroto No. 114;Surabaya;Jawa Timur;20/06/2020
+CUS0045;Adi Mahendra;individual;adi.mahendra28@yahoo.com;81685361530;Jl. Hayam Wuruk No. 51;Yogyakarta;DI Yogyakarta;12/07/2022
+CUS0046;UD Surya Gemilang Sentosa;business;info@suryagemilang18.co.id;215813037;Jl. Melati No. 72;Makassar;Sulawesi Selatan;03/01/2024
+CUS0047;UD Prima Sukses Niaga;business;info@primasukses79.co.id;212329187;Jl. Sudirman No. 132;Bandung;Jawa Barat;03/04/2024
+CUS0048;PT Garuda Mas Mart;business;info@garudamas15.co.id;614986941;Jl. Pemuda No. 63;Semarang;Jawa Tengah;17/03/2021
+CUS0049;PT Tunas Harapan Niaga;business;info@tunasharapan9.co.id;229385742;Jl. Cempaka No. 275;Surabaya;Jawa Timur;07/04/2020
+CUS0050;UD Nusantara Indah Group;business;info@nusantaraindah92.co.id;315886733;Jl. Cendrawasih No. 1;Jakarta;DKI Jakarta;03/02/2020
+CUS0051;CV Jaya Makmur Mart;business;info@jayamakmur24.co.id;229782613;Jl. Gajah Mada No. 35;Surabaya;Jawa Timur;13/06/2023
+CUS0052;Iwan Firmansyah;individual;iwan.firmansyah806@outlook.com;89067065405;Jl. Gatot Subroto No. 177;Makassar;Sulawesi Selatan;13/12/2022
+CUS0053;Doni Manurung;individual;doni.manurung644@gmail.com;86205852772;Jl. Diponegoro No. 33;Surabaya;Jawa Timur;08/05/2021
+CUS0054;Vina Yuliana;individual;vina.yuliana38@yahoo.com;84030548687;Jl. Ahmad Yani No. 19;Yogyakarta;DI Yogyakarta;06/01/2024
+CUS0055;Lina Kusuma;individual;lina.kusuma293@yahoo.com;81541566765;Jl. Pahlawan No. 255;Surabaya;Jawa Timur;22/03/2024
+CUS0056;Wulan Rahmawati;individual;wulan.rahmawati947@outlook.com;85161692845;Jl. Asia Afrika No. 41;Denpasar;Bali;18/11/2023
+CUS0057;UD Bintang Timur Trading;business;info@bintangtimur58.co.id;2743795835;Jl. Margonda No. 228;Bandung;Jawa Barat;02/11/2021
+CUS0058;CV Sukses Mandiri Logistic;business;info@suksesmandiri79.co.id;2745606274;Jl. Kebon Jeruk No. 30;Bandung;Jawa Barat;20/12/2021
+CUS0059;UD Kencana Sari Mart;business;info@kencanasari47.co.id;311522452;Jl. Diponegoro No. 225;Medan;Sumatera Utara;02/06/2020
+CUS0060;Dimas Saputra;individual;dimas.saputra242@outlook.com;86569092755;Jl. Mawar No. 40;Jakarta;DKI Jakarta;12/03/2020
+CUS0061;PT Nusantara Indah Logistic;business;info@nusantaraindah51.co.id;4115675638;Jl. Veteran No. 59;Solo;Jawa Tengah;21/03/2023
+CUS0062;Mira Setiawan;individual;mira.setiawan512@outlook.com;87814473947;Jl. Merdeka No. 63;Semarang;Jawa Tengah;23/02/2020
+CUS0063;Andi Yuliana;individual;andi.yuliana177@outlook.com;88155188442;Jl. Margonda No. 90;Jakarta;DKI Jakarta;04/10/2020
+CUS0064;UD Jaya Makmur Indonesia;business;info@jayamakmur26.co.id;314971774;Jl. Melati No. 14;Surabaya;Jawa Timur;10/01/2022
+CUS0065;Tika Tanjung;individual;tika.tanjung378@yahoo.com;89291146786;Jl. Setiabudi No. 210;Bekasi;Jawa Barat;09/01/2022
+CUS0066;Andi Santoso;individual;andi.santoso996@yahoo.com;82778528922;Jl. Cendrawasih No. 258;Semarang;Jawa Tengah;23/03/2023
+CUS0067;Indah Firmansyah;individual;indah.firmansyah157@yahoo.com;83253584143;Jl. Kebon Jeruk No. 283;Bandung;Jawa Barat;23/04/2020
+CUS0068;PT Kencana Sari Trading;business;info@kencanasari79.co.id;229431778;Jl. Kebon Jeruk No. 87;Bandung;Jawa Barat;16/07/2021
+CUS0069;Fitri Santoso;individual;fitri.santoso176@outlook.com;86900109439;Jl. Cendrawasih No. 16;Makassar;Sulawesi Selatan;27/04/2023
+CUS0070;UD Garuda Mas Trading;business;info@garudamas83.co.id;619102469;Jl. Veteran No. 208;Bogor;Jawa Barat;16/10/2022
+CUS0071;CV Cahaya Abadi;business;info@cahayaabadi21.co.id;3617972975;Jl. Melati No. 238;Jakarta;DKI Jakarta;01/09/2021
+CUS0072;Mega Simatupang;individual;mega.simatupang148@yahoo.com;86562588153;Jl. Mawar No. 63;Surabaya;Jawa Timur;21/02/2021
+CUS0073;Surya Nugroho;individual;surya.nugroho145@gmail.com;81469632595;Jl. Merdeka No. 82;Pontianak;Kalimantan Barat;01/07/2021
+CUS0074;UD Cipta Karya Niaga;business;info@ciptakarya40.co.id;3611388833;Jl. Gatot Subroto No. 202;Semarang;Jawa Tengah;17/10/2022
+CUS0075;CV Jaya Makmur Group;business;info@jayamakmur75.co.id;4111816348;Jl. Thamrin No. 145;Balikpapan;Kalimantan Timur;01/11/2022
+CUS0076;UD Putra Mandiri Niaga;business;info@putramandiri37.co.id;212803501;Jl. Cendrawasih No. 69;Jakarta;DKI Jakarta;10/10/2022
+CUS0077;UD Rejeki Lancar Mart;business;info@rejekilancar47.co.id;217720644;Jl. Thamrin No. 292;Bandung;Jawa Barat;25/06/2021
+CUS0078;PT Rejeki Lancar Trading;business;info@rejekilancar10.co.id;2749460003;Jl. Mawar No. 282;Jakarta;DKI Jakarta;24/02/2023
+CUS0079;Yanti Manurung;individual;yanti.manurung626@gmail.com;83165585239;Jl. Anggrek No. 206;Surabaya;Jawa Timur;26/07/2021
+CUS0080;PT Sukses Mandiri;business;info@suksesmandiri18.co.id;4118948107;Jl. Anggrek No. 234;Bandung;Jawa Barat;21/10/2022
+CUS0081;Ramli Pranata;individual;ramli.pranata528@gmail.com;86952694958;Jl. Anggrek No. 273;Padang;Sumatera Barat;01/11/2020
+CUS0082;Ratih Tanjung;individual;ratih.tanjung307@yahoo.com;81551694097;Jl. Ahmad Yani No. 297;Jakarta;DKI Jakarta;30/09/2022
+CUS0083;Hendra Nasution;individual;hendra.nasution53@outlook.com;88289623091;Jl. Merdeka No. 10;Surabaya;Jawa Timur;28/03/2023
+CUS0084;Joko Sari;individual;joko.sari156@yahoo.com;84689702838;Jl. Hayam Wuruk No. 245;Jakarta;DKI Jakarta;22/06/2022
+CUS0085;Bambang Suryadi;individual;bambang.suryadi980@gmail.com;88858549733;Jl. Ahmad Yani No. 286;Medan;Sumatera Utara;12/12/2022
+CUS0086;PT Bintang Timur Trading;business;info@bintangtimur91.co.id;249204110;Jl. Hayam Wuruk No. 246;Pontianak;Kalimantan Barat;03/09/2021
+CUS0087;Tika Mahendra;individual;tika.mahendra957@outlook.com;85419866524;Jl. Thamrin No. 148;Balikpapan;Kalimantan Timur;15/12/2021
+CUS0088;PT Rejeki Lancar Niaga;business;info@rejekilancar84.co.id;619037616;Jl. Merdeka No. 104;Surabaya;Jawa Timur;02/01/2024
+CUS0089;CV Aneka Niaga Trading;business;info@anekaniaga18.co.id;225014486;Jl. Veteran No. 26;Jakarta;DKI Jakarta;08/01/2023
+CUS0090;Ayu Nugroho;individual;ayu.nugroho654@gmail.com;81165712082;Jl. Cendrawasih No. 244;Pontianak;Kalimantan Barat;03/10/2023
+CUS0091;UD Mitra Sejati Trading;business;info@mitrasejati42.co.id;611992583;Jl. Setiabudi No. 46;Jakarta;DKI Jakarta;04/09/2022
+CUS0092;Dani Nugroho;individual;dani.nugroho548@outlook.com;81262067240;Jl. Sudirman No. 153;Jakarta;DKI Jakarta;28/08/2023
+CUS0093;Ramli Hartono;individual;ramli.hartono951@yahoo.com;85788728743;Jl. Asia Afrika No. 170;Balikpapan;Kalimantan Timur;09/03/2023
+CUS0094;UD Cipta Karya Trading;business;info@ciptakarya92.co.id;311236293;Jl. Pajajaran No. 173;Bogor;Jawa Barat;28/11/2020
+CUS0095;Dani Manurung;individual;dani.manurung776@gmail.com;83966851612;Jl. Diponegoro No. 245;Jakarta;DKI Jakarta;27/08/2021
+CUS0096;PT Maju Jaya Trading;business;info@majujaya50.co.id;248494978;Jl. Setiabudi No. 137;Semarang;Jawa Tengah;24/10/2021
+CUS0097;Nia Tanjung;individual;nia.tanjung741@outlook.com;81453017426;Jl. Raya Bogor No. 258;Bandung;Jawa Barat;06/11/2021
+CUS0098;Vina Hidayat;individual;vina.hidayat707@gmail.com;85593327279;Jl. Gajah Mada No. 213;Jakarta;DKI Jakarta;11/12/2023
+CUS0099;UD Aneka Niaga Niaga;business;info@anekaniaga97.co.id;245151780;Jl. Raya Bogor No. 42;Jakarta;DKI Jakarta;08/12/2023
+CUS0100;CV Nusantara Indah Logistic;business;info@nusantaraindah10.co.id;222036128;Jl. Kenanga No. 259;Balikpapan;Kalimantan Timur;12/12/2022
+CUS0101;UD Garuda Mas Sentosa;business;info@garudamas22.co.id;4119729882;Jl. Mawar No. 60;Denpasar;Bali;18/02/2021
+CUS0102;PT Citra Mandiri Niaga;business;info@citramandiri12.co.id;3611933413;Jl. Mawar No. 68;Jakarta;DKI Jakarta;25/10/2023
+CUS0103;CV Cipta Karya;business;info@ciptakarya72.co.id;3616170227;Jl. Pajajaran No. 12;Bandung;Jawa Barat;17/11/2022
+CUS0104;CV Karya Bersama;business;info@karyabersama96.co.id;242225232;Jl. Thamrin No. 217;Jakarta;DKI Jakarta;21/03/2022
+CUS0105;UD Cahaya Abadi;business;info@cahayaabadi9.co.id;3611532422;Jl. Pemuda No. 210;Makassar;Sulawesi Selatan;06/12/2021
+CUS0106;PT Cendana Wangi Mart;business;info@cendanawangi48.co.id;2748525204;Jl. Imam Bonjol No. 193;Bandung;Jawa Barat;03/01/2021
+CUS0107;Wati Manurung;individual;wati.manurung896@outlook.com;83512868230;Jl. Setiabudi No. 12;Semarang;Jawa Tengah;13/06/2020
+CUS0108;CV Tirta Bening Mart;business;info@tirtabening69.co.id;2744853123;Jl. Veteran No. 236;Manado;Sulawesi Utara;03/09/2021
+CUS0109;PT Anugerah Mulia Group;business;info@anugerahmulia93.co.id;221540516;Jl. Raya Bogor No. 215;Semarang;Jawa Tengah;09/12/2021
+CUS0110;PT Jaya Makmur Group;business;info@jayamakmur9.co.id;221563316;Jl. Mawar No. 25;Jakarta;DKI Jakarta;13/06/2023
+CUS0111;UD Sukses Mandiri Mart;business;info@suksesmandiri57.co.id;244645172;Jl. Setiabudi No. 29;Jakarta;DKI Jakarta;16/05/2021
+CUS0112;UD Bintang Timur Group;business;info@bintangtimur94.co.id;4116379867;Jl. Veteran No. 155;Banjarmasin;Kalimantan Selatan;13/10/2020
+CUS0113;UD Nusantara Indah Group;business;info@nusantaraindah53.co.id;615616316;Jl. Thamrin No. 286;Medan;Sumatera Utara;20/10/2020
+CUS0114;UD Aneka Niaga Sentosa;business;info@anekaniaga81.co.id;2749315137;Jl. Thamrin No. 177;Surabaya;Jawa Timur;26/04/2023
+CUS0115;UD Mandiri Sentosa Logistic;business;info@mandirisentosa90.co.id;2747849452;Jl. Diponegoro No. 154;Banjarmasin;Kalimantan Selatan;10/08/2023
+CUS0116;PT Cendana Wangi Niaga;business;info@cendanawangi31.co.id;246045519;Jl. Margonda No. 74;Bandung;Jawa Barat;09/02/2022
+CUS0117;Dewi Halim;individual;dewi.halim423@yahoo.com;89826343517;Jl. Gajah Mada No. 48;Palembang;Sumatera Selatan;06/08/2022
+CUS0118;Doni Pangestu;individual;doni.pangestu196@gmail.com;85699013983;Jl. Melati No. 107;Palembang;Sumatera Selatan;01/01/2023
+CUS0119;CV Aneka Niaga;business;info@anekaniaga28.co.id;242968239;Jl. Pajajaran No. 246;Pekanbaru;Riau;12/11/2021
+CUS0120;UD Mega Persada Group;business;info@megapersada51.co.id;246395804;Jl. Setiabudi No. 145;Pontianak;Kalimantan Barat;11/05/2021
+CUS0121;CV Garuda Mas Logistic;business;info@garudamas40.co.id;617033835;Jl. Anggrek No. 255;Jakarta;DKI Jakarta;18/02/2022
+CUS0122;PT Inti Makmur Niaga;business;info@intimakmur98.co.id;4114407913;Jl. Gajah Mada No. 161;Balikpapan;Kalimantan Timur;12/08/2022
+CUS0123;PT Sejahtera Abadi Group;business;info@sejahteraabadi95.co.id;311272124;Jl. Ahmad Yani No. 284;Jakarta;DKI Jakarta;27/04/2022
+CUS0124;UD Bumi Persada Mart;business;info@bumipersada38.co.id;314291551;Jl. Hayam Wuruk No. 118;Malang;Jawa Timur;11/04/2023
+CUS0125;UD Karya Bersama Group;business;info@karyabersama64.co.id;4115317226;Jl. Setiabudi No. 251;Jakarta;DKI Jakarta;16/02/2022
+CUS0126;UD Bumi Persada Niaga;business;info@bumipersada59.co.id;316908535;Jl. Pahlawan No. 72;Pontianak;Kalimantan Barat;21/01/2024
+CUS0127;UD Prima Sukses Sentosa;business;info@primasukses70.co.id;219790328;Jl. Thamrin No. 39;Jakarta;DKI Jakarta;15/01/2024
+CUS0128;PT Cendana Wangi;business;info@cendanawangi53.co.id;314882808;Jl. Gatot Subroto No. 78;Surabaya;Jawa Timur;30/09/2023
+CUS0129;PT Nusantara Indah Niaga;business;info@nusantaraindah48.co.id;219106820;Jl. Raya Bogor No. 250;Medan;Sumatera Utara;19/01/2020
+CUS0130;Budi Halim;individual;budi.halim565@yahoo.com;81084840862;Jl. Asia Afrika No. 50;Yogyakarta;DI Yogyakarta;02/02/2020
+CUS0131;PT Jaya Makmur Group;business;info@jayamakmur80.co.id;616946534;Jl. Ahmad Yani No. 204;Makassar;Sulawesi Selatan;09/12/2022
+CUS0132;CV Mandiri Sentosa Niaga;business;info@mandirisentosa73.co.id;244789255;Jl. Pemuda No. 42;Surabaya;Jawa Timur;10/06/2020
+CUS0133;UD Cendana Wangi;business;info@cendanawangi12.co.id;2747362994;Jl. Imam Bonjol No. 283;Surabaya;Jawa Timur;31/08/2023
+CUS0134;PT Kencana Sari;business;info@kencanasari90.co.id;312387242;Jl. Melati No. 223;Jakarta;DKI Jakarta;01/09/2022
+CUS0135;Mega Tanjung;individual;mega.tanjung879@gmail.com;89033974014;Jl. Kenanga No. 289;Bandung;Jawa Barat;13/08/2023
+CUS0136;PT Berkah Sejahtera Logistic;business;info@berkahsejahtera3.co.id;243419132;Jl. Setiabudi No. 204;Jakarta;DKI Jakarta;09/09/2023
+CUS0137;CV Berkah Sejahtera Group;business;info@berkahsejahtera73.co.id;2746565503;Jl. Imam Bonjol No. 72;Jakarta;DKI Jakarta;06/06/2020
+CUS0138;Doni Saputra;individual;doni.saputra513@outlook.com;86016315999;Jl. Imam Bonjol No. 168;Bandung;Jawa Barat;12/11/2023
+CUS0139;Hadi Permana;individual;hadi.permana803@yahoo.com;88358662961;Jl. Setiabudi No. 152;Jakarta;DKI Jakarta;01/03/2020
+CUS0140;UD Cahaya Abadi Indonesia;business;info@cahayaabadi35.co.id;317375341;Jl. Margonda No. 79;Malang;Jawa Timur;19/05/2021
+CUS0141;Bambang Suryadi;individual;bambang.suryadi370@gmail.com;82047541212;Jl. Cendrawasih No. 230;Makassar;Sulawesi Selatan;23/02/2024
+CUS0142;Tika Firmansyah;individual;tika.firmansyah418@gmail.com;81158199560;Jl. Pemuda No. 212;Semarang;Jawa Tengah;14/02/2023
+CUS0143;Vina Saputra;individual;vina.saputra743@outlook.com;84982622444;Jl. Melati No. 75;Bogor;Jawa Barat;05/03/2022
+CUS0144;PT Tunas Harapan Trading;business;info@tunasharapan54.co.id;619124053;Jl. Gatot Subroto No. 185;Semarang;Jawa Tengah;09/05/2020
+CUS0145;Maya Nasution;individual;maya.nasution641@yahoo.com;84712406596;Jl. Hayam Wuruk No. 226;Bandung;Jawa Barat;30/05/2021
+CUS0146;CV Karya Bersama Sentosa;business;info@karyabersama39.co.id;4114369728;Jl. Melati No. 161;Makassar;Sulawesi Selatan;16/11/2021
+CUS0147;Ratna Suryadi;individual;ratna.suryadi299@outlook.com;88935646519;Jl. Merdeka No. 280;Makassar;Sulawesi Selatan;29/12/2020
+CUS0148;UD Cendana Wangi;business;info@cendanawangi94.co.id;3614517316;Jl. Mawar No. 150;Surabaya;Jawa Timur;03/01/2021
+CUS0149;PT Karya Bersama Mart;business;info@karyabersama87.co.id;3613335038;Jl. Kebon Jeruk No. 156;Bandung;Jawa Barat;19/11/2023
+CUS0150;Wahyu Manurung;individual;wahyu.manurung158@outlook.com;87617979688;Jl. Margonda No. 215;Jakarta;DKI Jakarta;10/05/2021
+CUS0151;PT Inti Makmur Logistic;business;info@intimakmur90.co.id;222834914;Jl. Setiabudi No. 128;Bandung;Jawa Barat;18/01/2023
+CUS0152;Galih Rahmawati;individual;galih.rahmawati171@outlook.com;81965610143;Jl. Anggrek No. 266;Semarang;Jawa Tengah;08/09/2023
+CUS0153;UD Citra Mandiri Group;business;info@citramandiri58.co.id;4117562142;Jl. Mawar No. 257;Tangerang;Banten;16/02/2023
+CUS0154;CV Maju Jaya Niaga;business;info@majujaya14.co.id;617978909;Jl. Gatot Subroto No. 60;Jakarta;DKI Jakarta;04/11/2020
+CUS0155;Putri Rahmawati;individual;putri.rahmawati320@yahoo.com;88387571775;Jl. Gatot Subroto No. 154;Manado;Sulawesi Utara;04/02/2024
+CUS0156;Ratih Hartono;individual;ratih.hartono24@yahoo.com;82238282586;Jl. Mawar No. 119;Jakarta;DKI Jakarta;01/04/2020
+CUS0157;UD Berkah Sejahtera Sentosa;business;info@berkahsejahtera82.co.id;2747636771;Jl. Sudirman No. 102;Medan;Sumatera Utara;09/04/2022
+CUS0158;UD Tunas Harapan Mart;business;info@tunasharapan1.co.id;244452490;Jl. Ahmad Yani No. 33;Bogor;Jawa Barat;09/07/2022
+CUS0159;PT Inti Makmur Sentosa;business;info@intimakmur47.co.id;4114306357;Jl. Mawar No. 59;Semarang;Jawa Tengah;28/03/2023
+CUS0160;UD Permata Hijau Niaga;business;info@permatahijau68.co.id;4117520284;Jl. Cempaka No. 201;Denpasar;Bali;21/06/2021
+CUS0161;PT Rejeki Lancar Logistic;business;info@rejekilancar59.co.id;315990296;Jl. Cempaka No. 44;Solo;Jawa Tengah;17/04/2023
+CUS0162;Dimas Suryadi;individual;dimas.suryadi121@gmail.com;85125286692;Jl. Mangga No. 197;Jakarta;DKI Jakarta;08/10/2023
+CUS0163;PT Prima Sukses Sentosa;business;info@primasukses72.co.id;319214830;Jl. Pemuda No. 72;Padang;Sumatera Barat;16/05/2022
+CUS0164;CV Karya Bersama Niaga;business;info@karyabersama80.co.id;217023677;Jl. Sudirman No. 249;Surabaya;Jawa Timur;18/01/2021
+CUS0165;PT Karya Bersama Mart;business;info@karyabersama72.co.id;3617864135;Jl. Raya Bogor No. 252;Surabaya;Jawa Timur;06/10/2020
+CUS0166;UD Karya Bersama Niaga;business;info@karyabersama63.co.id;312386982;Jl. Mangga No. 16;Tangerang;Banten;01/05/2022
+CUS0167;PT Bintang Timur;business;info@bintangtimur36.co.id;245843084;Jl. Pahlawan No. 235;Bogor;Jawa Barat;07/04/2024
+CUS0168;Mira Hutapea;individual;mira.hutapea785@yahoo.com;89819148580;Jl. Setiabudi No. 226;Palembang;Sumatera Selatan;04/03/2023
+CUS0169;PT Tunas Harapan Indonesia;business;info@tunasharapan95.co.id;245994727;Jl. Thamrin No. 231;Jakarta;DKI Jakarta;23/01/2023
+CUS0170;CV Permata Hijau Indonesia;business;info@permatahijau57.co.id;224975295;Jl. Merdeka No. 180;Medan;Sumatera Utara;22/06/2021
+CUS0171;UD Kencana Sari Mart;business;info@kencanasari22.co.id;314466502;Jl. Merdeka No. 31;Bandung;Jawa Barat;26/12/2023
+CUS0172;CV Garuda Mas Trading;business;info@garudamas77.co.id;316430006;Jl. Margonda No. 150;Semarang;Jawa Tengah;13/03/2023
+CUS0173;UD Anugerah Mulia Indonesia;business;info@anugerahmulia18.co.id;2741994652;Jl. Ahmad Yani No. 65;Surabaya;Jawa Timur;15/08/2021
+CUS0174;Dimas Nugroho;individual;dimas.nugroho150@outlook.com;86367294667;Jl. Gatot Subroto No. 48;Surabaya;Jawa Timur;07/12/2023
+CUS0175;UD Bumi Persada Trading;business;info@bumipersada89.co.id;4118628527;Jl. Melati No. 168;Balikpapan;Kalimantan Timur;05/04/2022
+CUS0176;PT Permata Hijau Indonesia;business;info@permatahijau94.co.id;3617009980;Jl. Gatot Subroto No. 274;Jakarta;DKI Jakarta;06/04/2023
+CUS0177;PT Tunas Harapan Group;business;info@tunasharapan64.co.id;616416778;Jl. Pemuda No. 173;Medan;Sumatera Utara;25/03/2022
+CUS0178;Dani Santoso;individual;dani.santoso580@yahoo.com;86001701277;Jl. Sudirman No. 220;Surabaya;Jawa Timur;25/01/2023
+CUS0179;UD Aneka Niaga Sentosa;business;info@anekaniaga84.co.id;613667199;Jl. Ahmad Yani No. 48;Bandung;Jawa Barat;18/02/2021
+CUS0180;CV Anugerah Mulia Indonesia;business;info@anugerahmulia48.co.id;311868846;Jl. Imam Bonjol No. 157;Semarang;Jawa Tengah;02/09/2023
+CUS0181;UD Cendana Wangi Group;business;info@cendanawangi55.co.id;222596917;Jl. Sudirman No. 110;Semarang;Jawa Tengah;26/01/2024
+CUS0182;Andi Santoso;individual;andi.santoso608@gmail.com;89700516271;Jl. Veteran No. 197;Makassar;Sulawesi Selatan;03/09/2022
+CUS0183;UD Inti Makmur Indonesia;business;info@intimakmur14.co.id;4117166661;Jl. Pemuda No. 71;Jakarta;DKI Jakarta;01/07/2020
+CUS0184;PT Kencana Sari Sentosa;business;info@kencanasari9.co.id;213753418;Jl. Mawar No. 180;Surabaya;Jawa Timur;22/02/2022
+CUS0185;PT Kencana Sari Sentosa;business;info@kencanasari53.co.id;3614644760;Jl. Gatot Subroto No. 52;Surabaya;Jawa Timur;19/01/2024
+CUS0186;PT Sejahtera Abadi Mart;business;info@sejahteraabadi45.co.id;2746276495;Jl. Diponegoro No. 127;Jakarta;DKI Jakarta;13/10/2020
+CUS0187;UD Cahaya Abadi Group;business;info@cahayaabadi71.co.id;611450038;Jl. Raya Bogor No. 155;Bandung;Jawa Barat;21/07/2021
+CUS0188;Ayu Simatupang;individual;ayu.simatupang522@gmail.com;87403761379;Jl. Gatot Subroto No. 271;Jakarta;DKI Jakarta;24/02/2021
+CUS0189;CV Aneka Niaga Logistic;business;info@anekaniaga17.co.id;2748060918;Jl. Gajah Mada No. 280;Medan;Sumatera Utara;25/01/2020
+CUS0190;PT Cendana Wangi Niaga;business;info@cendanawangi99.co.id;221280001;Jl. Mangga No. 35;Makassar;Sulawesi Selatan;30/10/2023
+CUS0191;CV Mitra Sejati;business;info@mitrasejati8.co.id;2749499515;Jl. Pemuda No. 257;Jakarta;DKI Jakarta;29/01/2020
+CUS0192;CV Tunas Harapan Mart;business;info@tunasharapan11.co.id;315655136;Jl. Gatot Subroto No. 159;Surabaya;Jawa Timur;20/04/2024
+CUS0193;UD Aneka Niaga Group;business;info@anekaniaga20.co.id;4117555386;Jl. Mangga No. 34;Bekasi;Jawa Barat;10/06/2020
+CUS0194;UD Tunas Harapan Group;business;info@tunasharapan8.co.id;242446410;Jl. Cendrawasih No. 60;Makassar;Sulawesi Selatan;27/09/2021
+CUS0195;Yanti Simatupang;individual;yanti.simatupang57@yahoo.com;83102027588;Jl. Pajajaran No. 133;Medan;Sumatera Utara;17/07/2022
+CUS0196;CV Karya Utama Trading;business;info@karyautama94.co.id;221492516;Jl. Hayam Wuruk No. 220;Bandung;Jawa Barat;07/12/2020
+CUS0197;UD Cahaya Abadi Trading;business;info@cahayaabadi92.co.id;229323974;Jl. Mawar No. 262;Padang;Sumatera Barat;11/07/2021
+CUS0198;Dewi Maulana;individual;dewi.maulana880@outlook.com;83524191380;Jl. Thamrin No. 7;Bekasi;Jawa Barat;07/01/2022
+CUS0199;PT Prima Sukses Logistic;business;info@primasukses50.co.id;314002466;Jl. Thamrin No. 284;Semarang;Jawa Tengah;15/05/2021
+CUS0200;UD Kencana Sari Mart;business;info@kencanasari29.co.id;4115165165;Jl. Cendrawasih No. 164;Semarang;Jawa Tengah;02/01/2024
+CUS0201;PT Sejahtera Abadi Logistic;business;info@sejahteraabadi16.co.id;214008898;Jl. Veteran No. 265;Medan;Sumatera Utara;09/07/2021
+CUS0202;CV Cahaya Abadi Niaga;business;info@cahayaabadi37.co.id;616491198;Jl. Gatot Subroto No. 284;Jakarta;DKI Jakarta;04/04/2020
+CUS0203;PT Rejeki Lancar Group;business;info@rejekilancar38.co.id;615069884;Jl. Mawar No. 189;Medan;Sumatera Utara;24/07/2022
+CUS0204;CV Cendana Wangi Group;business;info@cendanawangi94.co.id;243526084;Jl. Sudirman No. 210;Yogyakarta;DI Yogyakarta;26/04/2023
+CUS0205;PT Garuda Mas Logistic;business;info@garudamas82.co.id;216620658;Jl. Sudirman No. 193;Padang;Sumatera Barat;18/02/2020
+CUS0206;UD Bintang Timur Indonesia;business;info@bintangtimur27.co.id;248043341;Jl. Melati No. 31;Medan;Sumatera Utara;20/02/2024
+CUS0207;UD Anugerah Mulia Indonesia;business;info@anugerahmulia6.co.id;249720112;Jl. Cendrawasih No. 191;Jakarta;DKI Jakarta;18/10/2020
+CUS0208;Mira Saputra;individual;mira.saputra595@gmail.com;89261990623;Jl. Pemuda No. 134;Medan;Sumatera Utara;27/07/2022
+CUS0209;Ratna Lubis;individual;ratna.lubis852@outlook.com;86574313291;Jl. Diponegoro No. 55;Surabaya;Jawa Timur;07/10/2021
+CUS0210;CV Cipta Karya Logistic;business;info@ciptakarya53.co.id;229991321;Jl. Gajah Mada No. 107;Makassar;Sulawesi Selatan;02/12/2020
+CUS0211;CV Cipta Karya Trading;business;info@ciptakarya16.co.id;223644347;Jl. Raya Bogor No. 156;Makassar;Sulawesi Selatan;14/07/2022
+CUS0212;UD Mega Persada;business;info@megapersada28.co.id;4113488460;Jl. Gatot Subroto No. 128;Palembang;Sumatera Selatan;14/12/2023
+CUS0213;Ratna Firmansyah;individual;ratna.firmansyah51@outlook.com;85420678831;Jl. Mawar No. 53;Surabaya;Jawa Timur;29/12/2021
+CUS0214;PT Maju Jaya;business;info@majujaya29.co.id;314324120;Jl. Imam Bonjol No. 191;Pekanbaru;Riau;13/10/2020
+CUS0215;Hadi Siregar;individual;hadi.siregar87@outlook.com;85101372151;Jl. Thamrin No. 237;Medan;Sumatera Utara;06/11/2023
+CUS0216;PT Aneka Niaga Mart;business;info@anekaniaga93.co.id;2749323619;Jl. Sudirman No. 196;Jakarta;DKI Jakarta;13/04/2020
+CUS0217;CV Berkah Sejahtera Logistic;business;info@berkahsejahtera28.co.id;315613428;Jl. Ahmad Yani No. 229;Jakarta;DKI Jakarta;31/10/2023
+CUS0218;PT Mega Persada Group;business;info@megapersada83.co.id;619370012;Jl. Cendrawasih No. 282;Solo;Jawa Tengah;31/10/2020
+CUS0219;Dewi Saputra;individual;dewi.saputra287@yahoo.com;83638380657;Jl. Kenanga No. 249;Balikpapan;Kalimantan Timur;08/09/2022
+CUS0220;Dani Firmansyah;individual;dani.firmansyah330@yahoo.com;85205930407;Jl. Anggrek No. 184;Surabaya;Jawa Timur;05/12/2021
+CUS0221;UD Jaya Makmur Sentosa;business;info@jayamakmur13.co.id;245045872;Jl. Ahmad Yani No. 274;Surabaya;Jawa Timur;19/04/2024
+CUS0222;Dewi Hutapea;individual;dewi.hutapea971@gmail.com;87522395590;Jl. Margonda No. 181;Semarang;Jawa Tengah;18/02/2024
+CUS0223;UD Karya Utama Group;business;info@karyautama64.co.id;613945353;Jl. Melati No. 20;Surabaya;Jawa Timur;08/03/2023
+CUS0224;PT Jaya Makmur Group;business;info@jayamakmur3.co.id;3611011467;Jl. Hayam Wuruk No. 104;Medan;Sumatera Utara;03/07/2020
+CUS0225;CV Citra Mandiri Sentosa;business;info@citramandiri42.co.id;211367637;Jl. Diponegoro No. 73;Jakarta;DKI Jakarta;24/09/2020
+CUS0226;PT Permata Hijau Logistic;business;info@permatahijau10.co.id;4117636992;Jl. Mangga No. 52;Makassar;Sulawesi Selatan;04/05/2024
+CUS0227;CV Surya Gemilang Sentosa;business;info@suryagemilang21.co.id;2749173859;Jl. Kebon Jeruk No. 163;Medan;Sumatera Utara;20/11/2021
+CUS0228;UD Garuda Mas Logistic;business;info@garudamas29.co.id;317348231;Jl. Pemuda No. 151;Balikpapan;Kalimantan Timur;22/12/2020
+CUS0229;PT Bumi Persada;business;info@bumipersada90.co.id;2741543292;Jl. Pahlawan No. 163;Bekasi;Jawa Barat;17/09/2020
+CUS0230;PT Kencana Sari Indonesia;business;info@kencanasari64.co.id;316556084;Jl. Pajajaran No. 40;Bandung;Jawa Barat;06/06/2023
+CUS0231;Adi Suryadi;individual;adi.suryadi172@outlook.com;82570433154;Jl. Asia Afrika No. 1;Banjarmasin;Kalimantan Selatan;02/05/2021
+CUS0232;CV Cipta Karya Mart;business;info@ciptakarya22.co.id;2749272543;Jl. Imam Bonjol No. 180;Semarang;Jawa Tengah;08/04/2020
+CUS0233;Bambang Hartono;individual;bambang.hartono849@yahoo.com;84271040541;Jl. Gatot Subroto No. 176;Denpasar;Bali;23/01/2023
+CUS0234;CV Berkah Sejahtera Indonesia;business;info@berkahsejahtera71.co.id;226669869;Jl. Cempaka No. 248;Jakarta;DKI Jakarta;14/12/2020
+CUS0235;PT Tunas Harapan Sentosa;business;info@tunasharapan78.co.id;2743635764;Jl. Thamrin No. 52;Solo;Jawa Tengah;13/12/2023
+CUS0236;PT Mitra Sejati Mart;business;info@mitrasejati90.co.id;615723173;Jl. Pemuda No. 122;Bandung;Jawa Barat;09/11/2021
+CUS0237;Dewi Putri;individual;dewi.putri586@outlook.com;88205061497;Jl. Merdeka No. 50;Makassar;Sulawesi Selatan;15/07/2020
+CUS0238;PT Berkah Sejahtera Trading;business;info@berkahsejahtera11.co.id;3612937918;Jl. Pemuda No. 204;Jakarta;DKI Jakarta;22/02/2020
+CUS0239;CV Putra Mandiri Trading;business;info@putramandiri12.co.id;2744101792;Jl. Gajah Mada No. 196;Surabaya;Jawa Timur;22/08/2022
+CUS0240;PT Cipta Karya;business;info@ciptakarya34.co.id;3618802377;Jl. Ahmad Yani No. 116;Makassar;Sulawesi Selatan;26/01/2022
+CUS0241;UD Sukses Mandiri Sentosa;business;info@suksesmandiri97.co.id;222437930;Jl. Raya Bogor No. 177;Medan;Sumatera Utara;04/07/2021
+CUS0242;Fauzi Hutapea;individual;fauzi.hutapea604@gmail.com;89068687937;Jl. Pemuda No. 41;Surabaya;Jawa Timur;13/01/2023
+CUS0243;Ratih Wijaya;individual;ratih.wijaya515@outlook.com;89992172233;Jl. Diponegoro No. 22;Balikpapan;Kalimantan Timur;19/03/2022
+CUS0244;PT Tirta Bening Mart;business;info@tirtabening26.co.id;315326615;Jl. Hayam Wuruk No. 35;Jakarta;DKI Jakarta;17/05/2022
+CUS0245;CV Garuda Mas Mart;business;info@garudamas71.co.id;4115633880;Jl. Anggrek No. 235;Makassar;Sulawesi Selatan;27/06/2020
+CUS0246;Yusuf Simatupang;individual;yusuf.simatupang602@outlook.com;87162299911;Jl. Mangga No. 52;Surabaya;Jawa Timur;26/01/2020
+CUS0247;CV Permata Hijau Logistic;business;info@permatahijau53.co.id;617426403;Jl. Kebon Jeruk No. 249;Manado;Sulawesi Utara;28/05/2024
+CUS0248;UD Prima Sukses;business;info@primasukses23.co.id;617760781;Jl. Diponegoro No. 206;Jakarta;DKI Jakarta;17/03/2023
+CUS0249;CV Putra Mandiri Logistic;business;info@putramandiri89.co.id;241826965;Jl. Pajajaran No. 244;Medan;Sumatera Utara;20/03/2020
+CUS0250;CV Maju Jaya Logistic;business;info@majujaya39.co.id;615703436;Jl. Melati No. 51;Banjarmasin;Kalimantan Selatan;04/07/2021
+CUS0251;PT Bintang Timur Niaga;business;info@bintangtimur42.co.id;617992286;Jl. Cempaka No. 46;Jakarta;DKI Jakarta;11/04/2021
+CUS0252;Surya Kusuma;individual;surya.kusuma936@yahoo.com;88850821486;Jl. Diponegoro No. 269;Jakarta;DKI Jakarta;19/01/2021
+CUS0253;Siti Setiawan;individual;siti.setiawan198@gmail.com;81307053457;Jl. Anggrek No. 204;Tangerang;Banten;10/03/2023
+CUS0254;Indah Manurung;individual;indah.manurung32@gmail.com;86797279855;Jl. Pahlawan No. 133;Denpasar;Bali;25/07/2023
+CUS0255;Yusuf Saputra;individual;yusuf.saputra292@gmail.com;87029333346;Jl. Anggrek No. 11;Makassar;Sulawesi Selatan;13/03/2024
+CUS0256;UD Maju Jaya Niaga;business;info@majujaya17.co.id;311141997;Jl. Veteran No. 130;Medan;Sumatera Utara;17/05/2024
+CUS0257;CV Citra Mandiri Trading;business;info@citramandiri55.co.id;2746850369;Jl. Mawar No. 130;Jakarta;DKI Jakarta;30/05/2023
+CUS0258;Linda Hidayat;individual;linda.hidayat694@outlook.com;87910858994;Jl. Pemuda No. 56;Tangerang;Banten;22/03/2021
+CUS0259;PT Surya Gemilang Trading;business;info@suryagemilang82.co.id;4115645358;Jl. Ahmad Yani No. 153;Bandung;Jawa Barat;13/09/2022
+CUS0260;Putri Firmansyah;individual;putri.firmansyah784@gmail.com;81965207446;Jl. Imam Bonjol No. 199;Medan;Sumatera Utara;20/01/2021
+CUS0261;Agus Tanjung;individual;agus.tanjung726@outlook.com;84538758428;Jl. Pahlawan No. 151;Bandung;Jawa Barat;17/02/2024
+CUS0262;Reza Santoso;individual;reza.santoso759@yahoo.com;89251353465;Jl. Gajah Mada No. 134;Medan;Sumatera Utara;18/07/2020
+CUS0263;CV Cipta Karya Indonesia;business;info@ciptakarya61.co.id;212194801;Jl. Melati No. 100;Bekasi;Jawa Barat;14/04/2023
+CUS0264;Indah Wibowo;individual;indah.wibowo698@yahoo.com;89460223569;Jl. Mawar No. 74;Surabaya;Jawa Timur;21/10/2022
+CUS0265;UD Berkah Sejahtera Indonesia;business;info@berkahsejahtera63.co.id;4113966618;Jl. Hayam Wuruk No. 30;Surabaya;Jawa Timur;09/10/2021
+CUS0266;Surya Permana;individual;surya.permana215@gmail.com;83712966667;Jl. Imam Bonjol No. 3;Padang;Sumatera Barat;10/01/2020
+CUS0267;UD Mitra Sejati Logistic;business;info@mitrasejati2.co.id;4119909268;Jl. Merdeka No. 10;Yogyakarta;DI Yogyakarta;18/03/2020
+CUS0268;PT Kencana Sari Group;business;info@kencanasari29.co.id;4116236039;Jl. Diponegoro No. 53;Solo;Jawa Tengah;17/10/2023
+CUS0269;UD Sejahtera Abadi Trading;business;info@sejahteraabadi22.co.id;221767026;Jl. Pemuda No. 149;Jakarta;DKI Jakarta;24/02/2022
+CUS0270;Doni Firmansyah;individual;doni.firmansyah611@outlook.com;86625753260;Jl. Veteran No. 115;Padang;Sumatera Barat;22/07/2022
+CUS0271;PT Mitra Sejati;business;info@mitrasejati76.co.id;313066315;Jl. Gajah Mada No. 20;Surabaya;Jawa Timur;29/01/2024
+CUS0272;UD Anugerah Mulia;business;info@anugerahmulia77.co.id;212813842;Jl. Kebon Jeruk No. 11;Padang;Sumatera Barat;07/02/2022
+CUS0273;Yusuf Hartono;individual;yusuf.hartono427@yahoo.com;87184723046;Jl. Raya Bogor No. 52;Jakarta;DKI Jakarta;08/04/2020
+CUS0274;UD Anugerah Mulia Sentosa;business;info@anugerahmulia54.co.id;229582968;Jl. Pajajaran No. 61;Jakarta;DKI Jakarta;18/09/2023
+CUS0275;PT Inti Makmur Indonesia;business;info@intimakmur64.co.id;244351238;Jl. Setiabudi No. 135;Bandung;Jawa Barat;01/08/2021
+CUS0276;Fajar Rahmawati;individual;fajar.rahmawati721@yahoo.com;85208737530;Jl. Sudirman No. 46;Bekasi;Jawa Barat;07/12/2022
+CUS0277;UD Tirta Bening Niaga;business;info@tirtabening20.co.id;229584991;Jl. Gatot Subroto No. 52;Surabaya;Jawa Timur;14/08/2020
+CUS0278;UD Jaya Makmur Niaga;business;info@jayamakmur38.co.id;618789281;Jl. Thamrin No. 52;Balikpapan;Kalimantan Timur;08/06/2021
+CUS0279;PT Permata Hijau Trading;business;info@permatahijau47.co.id;4118147013;Jl. Pajajaran No. 60;Jakarta;DKI Jakarta;23/12/2020
+CUS0280;PT Maju Jaya Sentosa;business;info@majujaya85.co.id;316514013;Jl. Gajah Mada No. 225;Jakarta;DKI Jakarta;13/07/2020
+CUS0281;Citra Pranata;individual;citra.pranata751@gmail.com;86521667467;Jl. Cendrawasih No. 86;Bandung;Jawa Barat;27/06/2023
+CUS0282;Dimas Lubis;individual;dimas.lubis744@gmail.com;83169797296;Jl. Setiabudi No. 184;Yogyakarta;DI Yogyakarta;19/08/2020
+CUS0283;PT Permata Hijau Sentosa;business;info@permatahijau62.co.id;3612894776;Jl. Cendrawasih No. 226;Semarang;Jawa Tengah;06/06/2023
+CUS0284;PT Anugerah Mulia Logistic;business;info@anugerahmulia2.co.id;246675742;Jl. Anggrek No. 268;Jakarta;DKI Jakarta;04/04/2020
+CUS0285;UD Mega Persada Indonesia;business;info@megapersada56.co.id;249085438;Jl. Gajah Mada No. 198;Jakarta;DKI Jakarta;10/11/2023
+CUS0286;UD Putra Mandiri;business;info@putramandiri2.co.id;319482016;Jl. Melati No. 254;Surabaya;Jawa Timur;31/10/2020
+CUS0287;PT Cendana Wangi Niaga;business;info@cendanawangi42.co.id;246551494;Jl. Ahmad Yani No. 26;Jakarta;DKI Jakarta;04/12/2020
+CUS0288;Hendra Halim;individual;hendra.halim659@yahoo.com;87317797177;Jl. Hayam Wuruk No. 61;Jakarta;DKI Jakarta;04/11/2022
+CUS0289;UD Kencana Sari;business;info@kencanasari14.co.id;2747917892;Jl. Thamrin No. 286;Yogyakarta;DI Yogyakarta;15/10/2022
+CUS0290;PT Karya Bersama Indonesia;business;info@karyabersama78.co.id;619528492;Jl. Kenanga No. 106;Manado;Sulawesi Utara;29/01/2023
+CUS0291;UD Cipta Karya Logistic;business;info@ciptakarya47.co.id;214739945;Jl. Mawar No. 170;Malang;Jawa Timur;02/09/2023
+CUS0292;UD Mega Persada Niaga;business;info@megapersada92.co.id;4118592234;Jl. Asia Afrika No. 50;Bandung;Jawa Barat;21/02/2023
+CUS0293;UD Jaya Makmur;business;info@jayamakmur44.co.id;4115898671;Jl. Kenanga No. 268;Pekanbaru;Riau;04/04/2024
+CUS0294;UD Sinar Terang;business;info@sinarterang22.co.id;3613356346;Jl. Margonda No. 210;Jakarta;DKI Jakarta;04/02/2022
+CUS0295;CV Mega Persada Group;business;info@megapersada25.co.id;227591709;Jl. Merdeka No. 235;Malang;Jawa Timur;07/08/2020
+CUS0296;PT Citra Mandiri Logistic;business;info@citramandiri14.co.id;2741780146;Jl. Kebon Jeruk No. 64;Semarang;Jawa Tengah;19/05/2024
+CUS0297;Surya Yuliana;individual;surya.yuliana675@outlook.com;89270808697;Jl. Anggrek No. 91;Surabaya;Jawa Timur;30/04/2024
+CUS0298;Fitri Setiawan;individual;fitri.setiawan749@gmail.com;82699586693;Jl. Ahmad Yani No. 204;Medan;Sumatera Utara;17/11/2023
+CUS0299;CV Cipta Karya Sentosa;business;info@ciptakarya18.co.id;2749594877;Jl. Pemuda No. 281;Surabaya;Jawa Timur;03/12/2021
+CUS0300;UD Bumi Persada Group;business;info@bumipersada26.co.id;245875114;Jl. Raya Bogor No. 177;Surabaya;Jawa Timur;04/10/2021
+CUS0301;PT Citra Mandiri Sentosa;business;info@citramandiri65.co.id;4112936178;Jl. Setiabudi No. 181;Pontianak;Kalimantan Barat;09/10/2023
+CUS0302;Reza Tanjung;individual;reza.tanjung585@outlook.com;87846081062;Jl. Thamrin No. 29;Bogor;Jawa Barat;25/02/2023
+CUS0303;Citra Hutapea;individual;citra.hutapea805@gmail.com;85420438057;Jl. Asia Afrika No. 288;Banjarmasin;Kalimantan Selatan;13/02/2021
+CUS0304;UD Kencana Sari Mart;business;info@kencanasari31.co.id;611788191;Jl. Imam Bonjol No. 199;Jakarta;DKI Jakarta;04/04/2021
+CUS0305;UD Surya Gemilang;business;info@suryagemilang2.co.id;614407238;Jl. Cempaka No. 227;Semarang;Jawa Tengah;03/05/2022
+CUS0306;UD Citra Mandiri Logistic;business;info@citramandiri97.co.id;244246352;Jl. Pemuda No. 230;Medan;Sumatera Utara;06/04/2021
+CUS0307;UD Cahaya Abadi Sentosa;business;info@cahayaabadi23.co.id;227328336;Jl. Thamrin No. 220;Medan;Sumatera Utara;29/12/2020
+CUS0308;UD Anugerah Mulia Sentosa;business;info@anugerahmulia21.co.id;611094709;Jl. Hayam Wuruk No. 239;Jakarta;DKI Jakarta;25/07/2021
+CUS0309;PT Sukses Mandiri Sentosa;business;info@suksesmandiri42.co.id;216052539;Jl. Melati No. 294;Bandung;Jawa Barat;24/12/2023
+CUS0310;CV Cahaya Abadi Logistic;business;info@cahayaabadi68.co.id;244084811;Jl. Anggrek No. 35;Jakarta;DKI Jakarta;31/01/2023
+CUS0311;UD Berkah Sejahtera Mart;business;info@berkahsejahtera70.co.id;2742542590;Jl. Gajah Mada No. 114;Balikpapan;Kalimantan Timur;29/05/2024
+CUS0312;Galih Suryadi;individual;galih.suryadi340@yahoo.com;85398780157;Jl. Veteran No. 125;Jakarta;DKI Jakarta;12/03/2021
+CUS0313;UD Putra Mandiri Logistic;business;info@putramandiri49.co.id;227473923;Jl. Ahmad Yani No. 277;Medan;Sumatera Utara;22/03/2020
+CUS0314;Eko Pratama;individual;eko.pratama934@outlook.com;86887704358;Jl. Gatot Subroto No. 50;Bandung;Jawa Barat;22/01/2024
+CUS0315;UD Garuda Mas;business;info@garudamas81.co.id;224536326;Jl. Raya Bogor No. 110;Surabaya;Jawa Timur;08/12/2020
+CUS0316;Anita Pangestu;individual;anita.pangestu107@gmail.com;89612075011;Jl. Thamrin No. 92;Bandung;Jawa Barat;04/11/2023
+CUS0317;Tika Saputra;individual;tika.saputra589@gmail.com;85667665061;Jl. Kenanga No. 4;Padang;Sumatera Barat;30/05/2021
+CUS0318;UD Mega Persada Indonesia;business;info@megapersada97.co.id;212217848;Jl. Gajah Mada No. 258;Jakarta;DKI Jakarta;06/08/2023
+CUS0319;CV Inti Makmur Trading;business;info@intimakmur78.co.id;225723078;Jl. Setiabudi No. 225;Jakarta;DKI Jakarta;05/08/2020
+CUS0320;CV Karya Bersama;business;info@karyabersama61.co.id;319950103;Jl. Veteran No. 70;Jakarta;DKI Jakarta;20/02/2022
+CUS0321;Ratna Sembiring;individual;ratna.sembiring817@outlook.com;85245088210;Jl. Sudirman No. 294;Surabaya;Jawa Timur;09/03/2024
+CUS0322;CV Garuda Mas Indonesia;business;info@garudamas40.co.id;246768873;Jl. Merdeka No. 212;Pekanbaru;Riau;06/05/2023
+CUS0323;Tono Santoso;individual;tono.santoso165@gmail.com;84943129087;Jl. Kebon Jeruk No. 282;Jakarta;DKI Jakarta;15/08/2023
+CUS0324;CV Tirta Bening Indonesia;business;info@tirtabening33.co.id;224312117;Jl. Pajajaran No. 298;Jakarta;DKI Jakarta;29/05/2020
+CUS0325;CV Rejeki Lancar Sentosa;business;info@rejekilancar86.co.id;242678477;Jl. Pemuda No. 36;Bogor;Jawa Barat;24/09/2022
+CUS0326;Joko Maulana;individual;joko.maulana462@yahoo.com;85929955620;Jl. Hayam Wuruk No. 127;Semarang;Jawa Tengah;31/01/2021
+CUS0327;PT Citra Mandiri Mart;business;info@citramandiri36.co.id;4113253277;Jl. Raya Bogor No. 170;Balikpapan;Kalimantan Timur;28/05/2024
+CUS0328;Linda Yuliana;individual;linda.yuliana368@yahoo.com;88812914283;Jl. Ahmad Yani No. 40;Jakarta;DKI Jakarta;09/09/2022
+CUS0329;PT Putra Mandiri;business;info@putramandiri65.co.id;217797028;Jl. Setiabudi No. 109;Balikpapan;Kalimantan Timur;29/01/2024
+CUS0330;UD Anugerah Mulia Niaga;business;info@anugerahmulia84.co.id;317137418;Jl. Imam Bonjol No. 115;Bandung;Jawa Barat;16/03/2020
+CUS0331;Fitri Nasution;individual;fitri.nasution878@yahoo.com;83788165803;Jl. Cempaka No. 85;Bandung;Jawa Barat;30/04/2024
+CUS0332;UD Karya Utama Niaga;business;info@karyautama21.co.id;313452813;Jl. Pajajaran No. 248;Medan;Sumatera Utara;30/03/2024
+CUS0333;PT Jaya Makmur Niaga;business;info@jayamakmur30.co.id;225435176;Jl. Gajah Mada No. 120;Semarang;Jawa Tengah;04/01/2022
+CUS0334;Galih Kusuma;individual;galih.kusuma531@yahoo.com;87770051844;Jl. Mangga No. 279;Medan;Sumatera Utara;28/03/2020
+CUS0335;PT Mandiri Sentosa Mart;business;info@mandirisentosa47.co.id;229668165;Jl. Ahmad Yani No. 193;Surabaya;Jawa Timur;13/03/2023
+CUS0336;UD Mandiri Sentosa Logistic;business;info@mandirisentosa45.co.id;3619088465;Jl. Cempaka No. 4;Jakarta;DKI Jakarta;01/04/2021
+CUS0337;PT Cipta Karya Sentosa;business;info@ciptakarya30.co.id;229632570;Jl. Kebon Jeruk No. 144;Semarang;Jawa Tengah;24/10/2022
+CUS0338;PT Berkah Sejahtera Sentosa;business;info@berkahsejahtera47.co.id;224864570;Jl. Cendrawasih No. 170;Jakarta;DKI Jakarta;09/03/2021
+CUS0339;PT Prima Sukses Niaga;business;info@primasukses62.co.id;243705263;Jl. Kebon Jeruk No. 211;Jakarta;DKI Jakarta;15/01/2024
+CUS0340;PT Sukses Mandiri Sentosa;business;info@suksesmandiri74.co.id;313260294;Jl. Kebon Jeruk No. 263;Makassar;Sulawesi Selatan;15/02/2020
+CUS0341;Dani Santoso;individual;dani.santoso58@gmail.com;85286990413;Jl. Mawar No. 242;Palembang;Sumatera Selatan;21/03/2020
+CUS0342;PT Jaya Makmur Mart;business;info@jayamakmur77.co.id;314051509;Jl. Cempaka No. 262;Jakarta;DKI Jakarta;13/09/2022
+CUS0343;Rizki Nasution;individual;rizki.nasution703@yahoo.com;88991366210;Jl. Merdeka No. 268;Banjarmasin;Kalimantan Selatan;25/06/2021
+CUS0344;UD Tunas Harapan Sentosa;business;info@tunasharapan78.co.id;223976650;Jl. Melati No. 20;Medan;Sumatera Utara;29/10/2022
+CUS0345;UD Nusantara Indah Indonesia;business;info@nusantaraindah12.co.id;3613186555;Jl. Cempaka No. 277;Jakarta;DKI Jakarta;24/05/2024
+CUS0346;UD Kencana Sari Mart;business;info@kencanasari67.co.id;2747213902;Jl. Thamrin No. 272;Jakarta;DKI Jakarta;03/01/2020
+CUS0347;Hendra Sembiring;individual;hendra.sembiring494@yahoo.com;86991624731;Jl. Pemuda No. 279;Semarang;Jawa Tengah;28/05/2022
+CUS0348;CV Mitra Sejati;business;info@mitrasejati91.co.id;219766777;Jl. Asia Afrika No. 267;Medan;Sumatera Utara;16/04/2022
+CUS0349;CV Kencana Sari Group;business;info@kencanasari89.co.id;4117859282;Jl. Gajah Mada No. 55;Bandung;Jawa Barat;15/01/2020
+CUS0350;CV Kencana Sari Trading;business;info@kencanasari34.co.id;2747134489;Jl. Cempaka No. 142;Semarang;Jawa Tengah;12/11/2020
+CUS0351;Ratna Hutapea;individual;ratna.hutapea209@yahoo.com;89872588744;Jl. Mangga No. 177;Malang;Jawa Timur;25/10/2023
+CUS0352;Ratih Putri;individual;ratih.putri754@gmail.com;82372138658;Jl. Cempaka No. 27;Bandung;Jawa Barat;04/05/2024
+CUS0353;CV Kencana Sari;business;info@kencanasari12.co.id;318913286;Jl. Cempaka No. 223;Manado;Sulawesi Utara;25/11/2020
+CUS0354;PT Anugerah Mulia Group;business;info@anugerahmulia48.co.id;221633429;Jl. Pajajaran No. 197;Semarang;Jawa Tengah;29/06/2020
+CUS0355;UD Kencana Sari Trading;business;info@kencanasari92.co.id;213940561;Jl. Kebon Jeruk No. 254;Surabaya;Jawa Timur;31/03/2022
+CUS0356;Budi Kusuma;individual;budi.kusuma871@outlook.com;89430988392;Jl. Raya Bogor No. 19;Bandung;Jawa Barat;18/06/2022
+CUS0357;PT Kencana Sari;business;info@kencanasari21.co.id;225629452;Jl. Setiabudi No. 205;Surabaya;Jawa Timur;06/01/2022
+CUS0358;UD Mandiri Sentosa Mart;business;info@mandirisentosa76.co.id;249686281;Jl. Sudirman No. 36;Banjarmasin;Kalimantan Selatan;24/12/2021
+CUS0359;UD Bintang Timur Logistic;business;info@bintangtimur45.co.id;614796608;Jl. Cempaka No. 100;Jakarta;DKI Jakarta;03/07/2020
+CUS0360;Ratna Tanjung;individual;ratna.tanjung5@yahoo.com;83681818451;Jl. Anggrek No. 132;Surabaya;Jawa Timur;20/07/2022
+CUS0361;UD Anugerah Mulia Niaga;business;info@anugerahmulia49.co.id;3615081447;Jl. Setiabudi No. 174;Jakarta;DKI Jakarta;06/01/2023
+CUS0362;Linda Manurung;individual;linda.manurung472@outlook.com;81714163356;Jl. Gajah Mada No. 265;Pontianak;Kalimantan Barat;07/05/2024
+CUS0363;PT Citra Mandiri Trading;business;info@citramandiri32.co.id;612560439;Jl. Imam Bonjol No. 176;Surabaya;Jawa Timur;02/01/2023
+CUS0364;Tika Mahendra;individual;tika.mahendra183@yahoo.com;86539423733;Jl. Pajajaran No. 124;Medan;Sumatera Utara;04/06/2020
+CUS0365;Lestari Nugroho;individual;lestari.nugroho208@gmail.com;86211179080;Jl. Melati No. 191;Makassar;Sulawesi Selatan;27/06/2021
+CUS0366;CV Prima Sukses Trading;business;info@primasukses63.co.id;319575399;Jl. Ahmad Yani No. 204;Bandung;Jawa Barat;25/06/2023
+CUS0367;UD Karya Utama;business;info@karyautama68.co.id;2749024879;Jl. Kenanga No. 17;Tangerang;Banten;30/03/2021
+CUS0368;Adi Putri;individual;adi.putri882@outlook.com;83718750036;Jl. Mangga No. 52;Bandung;Jawa Barat;26/10/2022
+CUS0369;Yuni Simatupang;individual;yuni.simatupang883@yahoo.com;83843479552;Jl. Melati No. 218;Makassar;Sulawesi Selatan;28/10/2021
+CUS0370;CV Citra Mandiri Logistic;business;info@citramandiri47.co.id;2745691405;Jl. Mawar No. 93;Jakarta;DKI Jakarta;07/03/2021
+CUS0371;PT Sejahtera Abadi Group;business;info@sejahteraabadi13.co.id;614956154;Jl. Kenanga No. 222;Bandung;Jawa Barat;16/03/2023
+CUS0372;Fajar Santoso;individual;fajar.santoso820@outlook.com;83702672885;Jl. Melati No. 154;Semarang;Jawa Tengah;19/02/2022
+CUS0373;UD Permata Hijau;business;info@permatahijau51.co.id;223740422;Jl. Thamrin No. 111;Makassar;Sulawesi Selatan;28/05/2021
+CUS0374;Reza Pangestu;individual;reza.pangestu645@gmail.com;88545588450;Jl. Cendrawasih No. 63;Jakarta;DKI Jakarta;04/06/2021
+CUS0375;Wati Simatupang;individual;wati.simatupang204@outlook.com;89245587716;Jl. Cempaka No. 147;Jakarta;DKI Jakarta;20/12/2021
+CUS0376;Hadi Santoso;individual;hadi.santoso890@gmail.com;86699611253;Jl. Hayam Wuruk No. 163;Medan;Sumatera Utara;07/08/2022
+CUS0377;CV Citra Mandiri Trading;business;info@citramandiri78.co.id;2745550787;Jl. Mawar No. 186;Denpasar;Bali;30/08/2023
+CUS0378;UD Nusantara Indah Niaga;business;info@nusantaraindah53.co.id;314085098;Jl. Sudirman No. 65;Surabaya;Jawa Timur;11/03/2024
+CUS0379;Maya Manurung;individual;maya.manurung258@outlook.com;82326111780;Jl. Sudirman No. 204;Denpasar;Bali;30/01/2024
+CUS0380;PT Sinar Terang Trading;business;info@sinarterang80.co.id;312414508;Jl. Kebon Jeruk No. 200;Semarang;Jawa Tengah;09/12/2022
+CUS0381;Hendra Nugroho;individual;hendra.nugroho756@yahoo.com;88228200557;Jl. Mawar No. 277;Jakarta;DKI Jakarta;25/09/2021
+CUS0382;Tika Yuliana;individual;tika.yuliana139@outlook.com;89299796884;Jl. Gajah Mada No. 247;Surabaya;Jawa Timur;11/07/2021
+CUS0383;PT Inti Makmur Indonesia;business;info@intimakmur57.co.id;617136825;Jl. Cendrawasih No. 134;Tangerang;Banten;10/01/2023
+CUS0384;Nia Pratama;individual;nia.pratama1@outlook.com;83547807740;Jl. Setiabudi No. 221;Jakarta;DKI Jakarta;14/11/2020
+CUS0385;Ramli Nugroho;individual;ramli.nugroho816@gmail.com;89536866326;Jl. Imam Bonjol No. 113;Makassar;Sulawesi Selatan;22/08/2021
+CUS0386;PT Tunas Harapan Group;business;info@tunasharapan67.co.id;615776085;Jl. Kebon Jeruk No. 273;Medan;Sumatera Utara;22/06/2021
+CUS0387;CV Mitra Sejati Indonesia;business;info@mitrasejati24.co.id;315858602;Jl. Asia Afrika No. 234;Semarang;Jawa Tengah;04/07/2021
+CUS0388;CV Anugerah Mulia Niaga;business;info@anugerahmulia25.co.id;4111325400;Jl. Diponegoro No. 26;Jakarta;DKI Jakarta;19/06/2023
+CUS0389;PT Berkah Sejahtera Indonesia;business;info@berkahsejahtera37.co.id;613097809;Jl. Margonda No. 225;Jakarta;DKI Jakarta;31/12/2022
+CUS0390;Budi Nugroho;individual;budi.nugroho93@gmail.com;81735647570;Jl. Hayam Wuruk No. 42;Bogor;Jawa Barat;29/01/2024
+CUS0391;Putri Wijaya;individual;putri.wijaya273@yahoo.com;82872346013;Jl. Imam Bonjol No. 227;Bandung;Jawa Barat;17/03/2024
+CUS0392;UD Sukses Mandiri Group;business;info@suksesmandiri59.co.id;229743263;Jl. Raya Bogor No. 107;Bandung;Jawa Barat;21/05/2021
+CUS0393;CV Tirta Bening Trading;business;info@tirtabening42.co.id;311707762;Jl. Pajajaran No. 282;Bandung;Jawa Barat;26/08/2022
+CUS0394;PT Anugerah Mulia Niaga;business;info@anugerahmulia82.co.id;614334029;Jl. Gajah Mada No. 27;Semarang;Jawa Tengah;02/12/2022
+CUS0395;PT Sinar Terang Group;business;info@sinarterang82.co.id;2746444432;Jl. Sudirman No. 86;Surabaya;Jawa Timur;27/09/2023
+CUS0396;UD Sinar Terang Mart;business;info@sinarterang32.co.id;211704531;Jl. Mangga No. 244;Makassar;Sulawesi Selatan;19/07/2021
+CUS0397;Ramli Santoso;individual;ramli.santoso381@gmail.com;84271950052;Jl. Margonda No. 275;Semarang;Jawa Tengah;10/11/2023
+CUS0398;PT Prima Sukses Group;business;info@primasukses41.co.id;4118360481;Jl. Pajajaran No. 99;Jakarta;DKI Jakarta;07/08/2020
+CUS0399;UD Mandiri Sentosa Logistic;business;info@mandirisentosa93.co.id;315205984;Jl. Thamrin No. 249;Makassar;Sulawesi Selatan;13/02/2020
+CUS0400;Surya Halim;individual;surya.halim302@outlook.com;88392855749;Jl. Kenanga No. 83;Makassar;Sulawesi Selatan;18/12/2023
+CUS0401;UD Karya Utama Niaga;business;info@karyautama38.co.id;617159129;Jl. Mawar No. 1;Jakarta;DKI Jakarta;21/05/2020
+CUS0402;Hadi Firmansyah;individual;hadi.firmansyah389@outlook.com;83095935186;Jl. Merdeka No. 269;Bandung;Jawa Barat;08/05/2024
+CUS0403;CV Cendana Wangi Sentosa;business;info@cendanawangi79.co.id;616412330;Jl. Cendrawasih No. 165;Jakarta;DKI Jakarta;31/10/2023
+CUS0404;PT Nusantara Indah Indonesia;business;info@nusantaraindah6.co.id;313997061;Jl. Thamrin No. 104;Denpasar;Bali;14/08/2020
+CUS0405;CV Mitra Sejati Indonesia;business;info@mitrasejati5.co.id;2749219319;Jl. Anggrek No. 132;Jakarta;DKI Jakarta;07/08/2020
+CUS0406;CV Jaya Makmur Indonesia;business;info@jayamakmur2.co.id;249244416;Jl. Gatot Subroto No. 240;Semarang;Jawa Tengah;10/04/2020
+CUS0407;Dewi Rahmawati;individual;dewi.rahmawati572@outlook.com;87509480141;Jl. Merdeka No. 266;Jakarta;DKI Jakarta;01/08/2023
+CUS0408;PT Bumi Persada Group;business;info@bumipersada69.co.id;2744178618;Jl. Merdeka No. 270;Semarang;Jawa Tengah;17/07/2020
+CUS0409;Maya Tanjung;individual;maya.tanjung641@gmail.com;89861957612;Jl. Pahlawan No. 282;Jakarta;DKI Jakarta;07/09/2023
+CUS0410;UD Surya Gemilang Sentosa;business;info@suryagemilang69.co.id;3616911017;Jl. Hayam Wuruk No. 282;Jakarta;DKI Jakarta;02/04/2022
+CUS0411;Yuni Sari;individual;yuni.sari783@outlook.com;87593983684;Jl. Gajah Mada No. 232;Jakarta;DKI Jakarta;26/10/2021
+CUS0412;CV Maju Jaya;business;info@majujaya37.co.id;219684044;Jl. Diponegoro No. 155;Bandung;Jawa Barat;05/07/2022
+CUS0413;CV Jaya Makmur Group;business;info@jayamakmur41.co.id;215629792;Jl. Kenanga No. 262;Makassar;Sulawesi Selatan;14/01/2020
+CUS0414;UD Aneka Niaga Sentosa;business;info@anekaniaga13.co.id;218723723;Jl. Gajah Mada No. 80;Bogor;Jawa Barat;13/02/2023
+CUS0415;CV Rejeki Lancar Group;business;info@rejekilancar30.co.id;616038238;Jl. Gatot Subroto No. 293;Bogor;Jawa Barat;10/10/2020
+CUS0416;UD Aneka Niaga Group;business;info@anekaniaga94.co.id;226447428;Jl. Melati No. 89;Tangerang;Banten;29/03/2022
+CUS0417;UD Citra Mandiri Indonesia;business;info@citramandiri77.co.id;611626991;Jl. Pajajaran No. 296;Bandung;Jawa Barat;26/09/2022
+CUS0418;Rina Hutapea;individual;rina.hutapea58@yahoo.com;86661390604;Jl. Anggrek No. 22;Bandung;Jawa Barat;20/02/2022
+CUS0419;Iwan Tanjung;individual;iwan.tanjung154@yahoo.com;89320679981;Jl. Veteran No. 222;Padang;Sumatera Barat;15/10/2021
+CUS0420;CV Karya Utama Sentosa;business;info@karyautama44.co.id;228983516;Jl. Mangga No. 26;Makassar;Sulawesi Selatan;16/08/2021
+CUS0421;CV Anugerah Mulia Indonesia;business;info@anugerahmulia52.co.id;2743187332;Jl. Setiabudi No. 70;Surabaya;Jawa Timur;27/01/2023
+CUS0422;UD Mitra Sejati Niaga;business;info@mitrasejati51.co.id;249795418;Jl. Veteran No. 125;Bogor;Jawa Barat;11/09/2022
+CUS0423;Citra Hutapea;individual;citra.hutapea441@yahoo.com;82166553559;Jl. Kebon Jeruk No. 13;Denpasar;Bali;26/05/2020
+CUS0424;CV Berkah Sejahtera Logistic;business;info@berkahsejahtera79.co.id;3613446428;Jl. Mawar No. 23;Bandung;Jawa Barat;25/04/2024
+CUS0425;PT Tirta Bening Logistic;business;info@tirtabening20.co.id;222885284;Jl. Pajajaran No. 28;Medan;Sumatera Utara;23/04/2021
+CUS0426;UD Aneka Niaga Sentosa;business;info@anekaniaga37.co.id;216759137;Jl. Margonda No. 57;Bandung;Jawa Barat;12/05/2021
+CUS0427;CV Prima Sukses;business;info@primasukses43.co.id;244554677;Jl. Merdeka No. 280;Jakarta;DKI Jakarta;16/09/2021
+CUS0428;CV Garuda Mas Niaga;business;info@garudamas80.co.id;311308508;Jl. Imam Bonjol No. 299;Jakarta;DKI Jakarta;07/12/2022
+CUS0429;Ayu Wijaya;individual;ayu.wijaya262@gmail.com;81439407016;Jl. Raya Bogor No. 139;Surabaya;Jawa Timur;20/09/2023
+CUS0430;UD Rejeki Lancar Indonesia;business;info@rejekilancar3.co.id;617484783;Jl. Veteran No. 195;Tangerang;Banten;19/09/2023
+CUS0431;Ratih Hartono;individual;ratih.hartono926@yahoo.com;88981238780;Jl. Thamrin No. 127;Jakarta;DKI Jakarta;07/11/2022
+CUS0432;Nia Suryadi;individual;nia.suryadi502@yahoo.com;83055543840;Jl. Kebon Jeruk No. 132;Bandung;Jawa Barat;20/12/2022
+CUS0433;PT Garuda Mas Trading;business;info@garudamas29.co.id;316734220;Jl. Imam Bonjol No. 71;Medan;Sumatera Utara;03/03/2022
+CUS0434;UD Mandiri Sentosa Group;business;info@mandirisentosa54.co.id;243562705;Jl. Cendrawasih No. 160;Denpasar;Bali;28/06/2020
+CUS0435;CV Cipta Karya Sentosa;business;info@ciptakarya27.co.id;314394202;Jl. Diponegoro No. 159;Bandung;Jawa Barat;24/05/2023
+CUS0436;UD Putra Mandiri Sentosa;business;info@putramandiri56.co.id;313651604;Jl. Hayam Wuruk No. 35;Tangerang;Banten;11/11/2023
+CUS0437;Iwan Nasution;individual;iwan.nasution122@gmail.com;86205664742;Jl. Setiabudi No. 97;Medan;Sumatera Utara;15/02/2023
+CUS0438;PT Berkah Sejahtera;business;info@berkahsejahtera98.co.id;614874049;Jl. Cempaka No. 119;Medan;Sumatera Utara;06/08/2020
+CUS0439;UD Maju Jaya Logistic;business;info@majujaya11.co.id;3613249600;Jl. Anggrek No. 241;Yogyakarta;DI Yogyakarta;17/04/2021
+CUS0440;Lina Rahmawati;individual;lina.rahmawati189@yahoo.com;88722330604;Jl. Cendrawasih No. 114;Jakarta;DKI Jakarta;29/12/2023
+CUS0441;UD Mitra Sejati Group;business;info@mitrasejati9.co.id;318369982;Jl. Cempaka No. 251;Bandung;Jawa Barat;29/02/2024
+CUS0442;CV Permata Hijau Niaga;business;info@permatahijau32.co.id;2747792537;Jl. Setiabudi No. 22;Bogor;Jawa Barat;09/11/2023
+CUS0443;Mira Pangestu;individual;mira.pangestu390@outlook.com;86699988081;Jl. Mawar No. 234;Malang;Jawa Timur;30/05/2023
+CUS0444;PT Nusantara Indah Mart;business;info@nusantaraindah95.co.id;217499457;Jl. Anggrek No. 26;Malang;Jawa Timur;27/03/2020
+CUS0445;Eko Yuliana;individual;eko.yuliana408@yahoo.com;85726490827;Jl. Kebon Jeruk No. 232;Surabaya;Jawa Timur;23/01/2021
+CUS0446;Doni Firmansyah;individual;doni.firmansyah116@gmail.com;89266570279;Jl. Margonda No. 104;Jakarta;DKI Jakarta;04/07/2020
+CUS0447;PT Anugerah Mulia Logistic;business;info@anugerahmulia89.co.id;313072728;Jl. Gatot Subroto No. 59;Surabaya;Jawa Timur;20/07/2022
+CUS0448;CV Kencana Sari Logistic;business;info@kencanasari11.co.id;2749584338;Jl. Cempaka No. 82;Jakarta;DKI Jakarta;17/12/2023
+CUS0449;UD Mandiri Sentosa;business;info@mandirisentosa99.co.id;316623607;Jl. Mangga No. 77;Jakarta;DKI Jakarta;14/02/2022
+CUS0450;PT Berkah Sejahtera;business;info@berkahsejahtera54.co.id;616192855;Jl. Pajajaran No. 229;Solo;Jawa Tengah;28/11/2020
+CUS0451;UD Berkah Sejahtera Indonesia;business;info@berkahsejahtera17.co.id;241059272;Jl. Cempaka No. 130;Tangerang;Banten;14/08/2021
+CUS0452;CV Prima Sukses Niaga;business;info@primasukses70.co.id;219278999;Jl. Veteran No. 112;Jakarta;DKI Jakarta;26/01/2020
+CUS0453;UD Prima Sukses Niaga;business;info@primasukses53.co.id;3612332193;Jl. Cempaka No. 4;Tangerang;Banten;20/04/2023
+CUS0454;Tika Permana;individual;tika.permana635@outlook.com;89302205020;Jl. Raya Bogor No. 296;Solo;Jawa Tengah;16/05/2021
+CUS0455;CV Surya Gemilang Indonesia;business;info@suryagemilang7.co.id;227995376;Jl. Pahlawan No. 83;Pontianak;Kalimantan Barat;20/05/2023
+CUS0456;Eko Simatupang;individual;eko.simatupang677@outlook.com;89279501455;Jl. Imam Bonjol No. 35;Jakarta;DKI Jakarta;08/10/2023
+CUS0457;CV Karya Bersama Indonesia;business;info@karyabersama38.co.id;3613257303;Jl. Asia Afrika No. 141;Jakarta;DKI Jakarta;02/04/2024
+CUS0458;Ayu Sari;individual;ayu.sari538@gmail.com;84901981794;Jl. Cendrawasih No. 163;Makassar;Sulawesi Selatan;05/11/2021
+CUS0459;UD Sejahtera Abadi Logistic;business;info@sejahteraabadi17.co.id;3619719216;Jl. Pajajaran No. 255;Medan;Sumatera Utara;15/06/2021
+CUS0460;Sari Pranata;individual;sari.pranata625@gmail.com;85301071396;Jl. Cendrawasih No. 24;Jakarta;DKI Jakarta;05/10/2022
+CUS0461;CV Garuda Mas Group;business;info@garudamas2.co.id;245724912;Jl. Ahmad Yani No. 35;Solo;Jawa Tengah;14/11/2021
+CUS0462;CV Nusantara Indah Logistic;business;info@nusantaraindah99.co.id;212909863;Jl. Raya Bogor No. 171;Makassar;Sulawesi Selatan;22/09/2021
+CUS0463;CV Bumi Persada;business;info@bumipersada23.co.id;246545118;Jl. Hayam Wuruk No. 246;Bandung;Jawa Barat;30/11/2021
+CUS0464;PT Kencana Sari Sentosa;business;info@kencanasari62.co.id;318727886;Jl. Kenanga No. 172;Semarang;Jawa Tengah;29/08/2022
+CUS0465;CV Aneka Niaga;business;info@anekaniaga67.co.id;616293259;Jl. Kenanga No. 275;Jakarta;DKI Jakarta;05/08/2022
+CUS0466;PT Sejahtera Abadi Logistic;business;info@sejahteraabadi46.co.id;223504920;Jl. Ahmad Yani No. 16;Padang;Sumatera Barat;08/02/2020
+CUS0467;CV Kencana Sari Sentosa;business;info@kencanasari74.co.id;2744143696;Jl. Cempaka No. 60;Bandung;Jawa Barat;25/11/2021
+CUS0468;CV Citra Mandiri Logistic;business;info@citramandiri91.co.id;215554970;Jl. Cendrawasih No. 45;Makassar;Sulawesi Selatan;21/05/2024
+CUS0469;PT Rejeki Lancar Niaga;business;info@rejekilancar39.co.id;249809723;Jl. Pemuda No. 90;Palembang;Sumatera Selatan;14/10/2022
+CUS0470;CV Inti Makmur;business;info@intimakmur26.co.id;228445293;Jl. Anggrek No. 13;Solo;Jawa Tengah;17/08/2020
+CUS0471;UD Karya Utama Group;business;info@karyautama44.co.id;3619785019;Jl. Pemuda No. 168;Surabaya;Jawa Timur;15/09/2022
+CUS0472;PT Karya Bersama Sentosa;business;info@karyabersama27.co.id;218706923;Jl. Imam Bonjol No. 268;Jakarta;DKI Jakarta;20/10/2020
+CUS0473;PT Bintang Timur;business;info@bintangtimur88.co.id;226591674;Jl. Mawar No. 24;Palembang;Sumatera Selatan;25/08/2020
+CUS0474;UD Cendana Wangi Trading;business;info@cendanawangi3.co.id;614520626;Jl. Hayam Wuruk No. 103;Manado;Sulawesi Utara;30/07/2020
+CUS0475;CV Anugerah Mulia Logistic;business;info@anugerahmulia99.co.id;3612973853;Jl. Ahmad Yani No. 77;Bandung;Jawa Barat;29/01/2021
+CUS0476;CV Sinar Terang;business;info@sinarterang80.co.id;224465793;Jl. Kenanga No. 180;Jakarta;DKI Jakarta;18/11/2020
+CUS0477;Joko Permana;individual;joko.permana145@outlook.com;85932149587;Jl. Thamrin No. 67;Jakarta;DKI Jakarta;30/01/2023
+CUS0478;CV Putra Mandiri;business;info@putramandiri14.co.id;2741902612;Jl. Gatot Subroto No. 219;Bekasi;Jawa Barat;29/02/2020
+CUS0479;PT Citra Mandiri Niaga;business;info@citramandiri79.co.id;4116241884;Jl. Hayam Wuruk No. 102;Jakarta;DKI Jakarta;13/03/2022
+CUS0480;UD Inti Makmur Indonesia;business;info@intimakmur97.co.id;3613211157;Jl. Gatot Subroto No. 240;Surabaya;Jawa Timur;31/12/2023
+CUS0481;CV Bintang Timur Niaga;business;info@bintangtimur61.co.id;244754647;Jl. Diponegoro No. 133;Bandung;Jawa Barat;18/07/2020
+CUS0482;CV Berkah Sejahtera Logistic;business;info@berkahsejahtera42.co.id;3619179005;Jl. Sudirman No. 34;Banjarmasin;Kalimantan Selatan;14/01/2022
+CUS0483;Indah Rahmawati;individual;indah.rahmawati491@yahoo.com;83459928161;Jl. Hayam Wuruk No. 285;Jakarta;DKI Jakarta;31/08/2022
+CUS0484;Andi Sembiring;individual;andi.sembiring310@outlook.com;88696393827;Jl. Imam Bonjol No. 34;Jakarta;DKI Jakarta;23/08/2023
+CUS0485;PT Karya Bersama Mart;business;info@karyabersama56.co.id;4114962012;Jl. Pahlawan No. 40;Jakarta;DKI Jakarta;28/11/2021
+CUS0486;Ratih Tanjung;individual;ratih.tanjung857@yahoo.com;82997581724;Jl. Imam Bonjol No. 36;Denpasar;Bali;23/02/2024
+CUS0487;PT Tirta Bening Mart;business;info@tirtabening42.co.id;3612031500;Jl. Gatot Subroto No. 112;Makassar;Sulawesi Selatan;10/05/2023
+CUS0488;Fitri Pranata;individual;fitri.pranata774@outlook.com;81227846997;Jl. Merdeka No. 106;Surabaya;Jawa Timur;11/10/2020
+CUS0489;Joko Hidayat;individual;joko.hidayat584@outlook.com;85651909862;Jl. Pemuda No. 32;Medan;Sumatera Utara;27/10/2023
+CUS0490;UD Sukses Mandiri;business;info@suksesmandiri91.co.id;4112840432;Jl. Pemuda No. 16;Surabaya;Jawa Timur;26/01/2022
+CUS0491;CV Citra Mandiri Mart;business;info@citramandiri81.co.id;4117422144;Jl. Imam Bonjol No. 196;Jakarta;DKI Jakarta;26/04/2021
+CUS0492;UD Mitra Sejati Sentosa;business;info@mitrasejati61.co.id;314157922;Jl. Kenanga No. 197;Jakarta;DKI Jakarta;10/06/2022
+CUS0493;Fauzi Santoso;individual;fauzi.santoso296@outlook.com;83201027621;Jl. Diponegoro No. 213;Semarang;Jawa Tengah;07/01/2022
+CUS0494;Yusuf Simatupang;individual;yusuf.simatupang953@yahoo.com;83786876532;Jl. Cendrawasih No. 4;Semarang;Jawa Tengah;22/07/2022
+CUS0495;CV Permata Hijau Group;business;info@permatahijau92.co.id;617892714;Jl. Kenanga No. 296;Semarang;Jawa Tengah;29/03/2023
+CUS0496;Agus Wijaya;individual;agus.wijaya582@yahoo.com;86197128478;Jl. Gatot Subroto No. 268;Jakarta;DKI Jakarta;21/01/2022
+CUS0497;PT Jaya Makmur Niaga;business;info@jayamakmur81.co.id;226242875;Jl. Cempaka No. 28;Medan;Sumatera Utara;03/06/2023
+CUS0498;UD Cendana Wangi;business;info@cendanawangi61.co.id;3619601059;Jl. Melati No. 294;Yogyakarta;DI Yogyakarta;04/12/2021
+CUS0499;CV Tunas Harapan Logistic;business;info@tunasharapan38.co.id;613810320;Jl. Thamrin No. 156;Bandung;Jawa Barat;11/02/2024
+CUS0500;UD Anugerah Mulia;business;info@anugerahmulia81.co.id;3613836678;Jl. Mangga No. 27;Surabaya;Jawa Timur;28/01/2024
+CUS0501;CV Inti Makmur;business;info@intimakmur37.co.id;3612384290;Jl. Diponegoro No. 259;Malang;Jawa Timur;06/09/2023
+CUS0502;CV Anugerah Mulia Sentosa;business;info@anugerahmulia79.co.id;615617376;Jl. Ahmad Yani No. 8;Surabaya;Jawa Timur;06/06/2020
+CUS0503;Indah Simatupang;individual;indah.simatupang179@outlook.com;83752437280;Jl. Hayam Wuruk No. 44;Surabaya;Jawa Timur;27/02/2024
+CUS0504;UD Aneka Niaga Sentosa;business;info@anekaniaga64.co.id;2747428475;Jl. Veteran No. 226;Semarang;Jawa Tengah;24/10/2020
+CUS0505;UD Berkah Sejahtera Group;business;info@berkahsejahtera74.co.id;4111911435;Jl. Kebon Jeruk No. 136;Jakarta;DKI Jakarta;26/01/2024
+CUS0506;PT Sukses Mandiri Sentosa;business;info@suksesmandiri60.co.id;2748989846;Jl. Pemuda No. 244;Denpasar;Bali;27/03/2024
+CUS0507;Anton Mahendra;individual;anton.mahendra546@gmail.com;87674286047;Jl. Imam Bonjol No. 162;Jakarta;DKI Jakarta;08/03/2024
+CUS0508;UD Sukses Mandiri Indonesia;business;info@suksesmandiri69.co.id;4118244164;Jl. Cempaka No. 140;Surabaya;Jawa Timur;21/12/2022
+CUS0509;CV Anugerah Mulia Indonesia;business;info@anugerahmulia33.co.id;2748736118;Jl. Setiabudi No. 124;Makassar;Sulawesi Selatan;17/11/2021
+CUS0510;UD Sejahtera Abadi Group;business;info@sejahteraabadi67.co.id;4114018500;Jl. Hayam Wuruk No. 281;Bandung;Jawa Barat;12/02/2024
+CUS0511;Wati Pratama;individual;wati.pratama852@gmail.com;81618175344;Jl. Merdeka No. 18;Makassar;Sulawesi Selatan;22/01/2020
+CUS0512;Yanti Saputra;individual;yanti.saputra59@outlook.com;84911192692;Jl. Asia Afrika No. 95;Bandung;Jawa Barat;18/02/2020
+CUS0513;CV Cipta Karya Indonesia;business;info@ciptakarya82.co.id;3615636946;Jl. Setiabudi No. 219;Pontianak;Kalimantan Barat;02/06/2021
+CUS0514;Galih Hutapea;individual;galih.hutapea789@yahoo.com;85214066504;Jl. Ahmad Yani No. 92;Jakarta;DKI Jakarta;18/11/2023
+CUS0515;Andi Maulana;individual;andi.maulana951@gmail.com;87271286391;Jl. Mawar No. 133;Surabaya;Jawa Timur;21/06/2022
+CUS0516;PT Cahaya Abadi Indonesia;business;info@cahayaabadi74.co.id;618480659;Jl. Sudirman No. 255;Padang;Sumatera Barat;30/07/2020
+CUS0517;Lina Siregar;individual;lina.siregar1@gmail.com;87425690877;Jl. Cendrawasih No. 207;Bandung;Jawa Barat;31/10/2020
+CUS0518;Vina Sembiring;individual;vina.sembiring805@gmail.com;89306719855;Jl. Raya Bogor No. 156;Bandung;Jawa Barat;30/01/2024
+CUS0519;PT Kencana Sari Indonesia;business;info@kencanasari47.co.id;4112349840;Jl. Mawar No. 149;Balikpapan;Kalimantan Timur;31/03/2022
+CUS0520;PT Berkah Sejahtera;business;info@berkahsejahtera50.co.id;246014212;Jl. Margonda No. 200;Semarang;Jawa Tengah;19/08/2023
+CUS0521;UD Citra Mandiri Logistic;business;info@citramandiri63.co.id;228348147;Jl. Pajajaran No. 98;Jakarta;DKI Jakarta;06/08/2020
+CUS0522;PT Mitra Sejati;business;info@mitrasejati93.co.id;249207960;Jl. Imam Bonjol No. 33;Jakarta;DKI Jakarta;13/10/2020
+CUS0523;Lina Hidayat;individual;lina.hidayat512@outlook.com;88005050613;Jl. Kebon Jeruk No. 268;Bandung;Jawa Barat;12/01/2023
+CUS0524;Wati Wibowo;individual;wati.wibowo896@outlook.com;83931027079;Jl. Thamrin No. 125;Jakarta;DKI Jakarta;27/07/2022
+CUS0525;Lina Santoso;individual;lina.santoso15@gmail.com;81417929111;Jl. Melati No. 113;Jakarta;DKI Jakarta;07/12/2023
+CUS0526;PT Tunas Harapan Logistic;business;info@tunasharapan95.co.id;2746439759;Jl. Asia Afrika No. 295;Jakarta;DKI Jakarta;09/05/2020
+CUS0527;Dimas Suryadi;individual;dimas.suryadi857@gmail.com;81925114262;Jl. Margonda No. 190;Surabaya;Jawa Timur;22/01/2023
+CUS0528;Rizki Yuliana;individual;rizki.yuliana250@outlook.com;81219620710;Jl. Sudirman No. 92;Bandung;Jawa Barat;07/02/2023
+CUS0529;UD Kencana Sari Trading;business;info@kencanasari54.co.id;3613128901;Jl. Merdeka No. 74;Jakarta;DKI Jakarta;01/07/2020
+CUS0530;CV Nusantara Indah Niaga;business;info@nusantaraindah53.co.id;243928445;Jl. Cempaka No. 20;Semarang;Jawa Tengah;03/08/2023
+CUS0531;PT Citra Mandiri Niaga;business;info@citramandiri79.co.id;226053293;Jl. Gajah Mada No. 215;Manado;Sulawesi Utara;06/05/2023
+CUS0532;Tika Nugroho;individual;tika.nugroho197@gmail.com;89195883734;Jl. Thamrin No. 100;Bandung;Jawa Barat;10/01/2020
+CUS0533;PT Tirta Bening Niaga;business;info@tirtabening64.co.id;313680321;Jl. Raya Bogor No. 23;Bandung;Jawa Barat;18/08/2020
+CUS0534;UD Rejeki Lancar Trading;business;info@rejekilancar27.co.id;2745217486;Jl. Hayam Wuruk No. 233;Jakarta;DKI Jakarta;20/04/2020
+CUS0535;PT Bumi Persada;business;info@bumipersada69.co.id;313651565;Jl. Sudirman No. 249;Malang;Jawa Timur;29/03/2020
+CUS0536;PT Cahaya Abadi Group;business;info@cahayaabadi93.co.id;3616468907;Jl. Cendrawasih No. 102;Pekanbaru;Riau;20/11/2022
+CUS0537;UD Putra Mandiri Logistic;business;info@putramandiri30.co.id;226471590;Jl. Veteran No. 51;Tangerang;Banten;10/03/2024
+CUS0538;UD Tunas Harapan Group;business;info@tunasharapan49.co.id;242233623;Jl. Melati No. 300;Manado;Sulawesi Utara;30/04/2021
+CUS0539;PT Putra Mandiri Mart;business;info@putramandiri19.co.id;248633480;Jl. Pahlawan No. 199;Makassar;Sulawesi Selatan;19/09/2022
+CUS0540;Dimas Yuliana;individual;dimas.yuliana738@gmail.com;86435209042;Jl. Asia Afrika No. 239;Semarang;Jawa Tengah;03/02/2022
+CUS0541;CV Berkah Sejahtera Logistic;business;info@berkahsejahtera29.co.id;613630468;Jl. Kebon Jeruk No. 88;Surabaya;Jawa Timur;28/07/2022
+CUS0542;UD Permata Hijau Group;business;info@permatahijau12.co.id;2749753827;Jl. Melati No. 111;Surabaya;Jawa Timur;29/03/2023
+CUS0543;Reza Pangestu;individual;reza.pangestu474@yahoo.com;81633569392;Jl. Mangga No. 3;Makassar;Sulawesi Selatan;26/04/2023
+CUS0544;PT Sukses Mandiri Niaga;business;info@suksesmandiri94.co.id;218142021;Jl. Anggrek No. 202;Bogor;Jawa Barat;05/05/2022
+CUS0545;UD Karya Bersama Indonesia;business;info@karyabersama58.co.id;3615035113;Jl. Gatot Subroto No. 286;Bandung;Jawa Barat;08/09/2022
+CUS0546;PT Citra Mandiri Mart;business;info@citramandiri28.co.id;317013049;Jl. Pemuda No. 123;Surabaya;Jawa Timur;22/03/2024
+CUS0547;Rina Pratama;individual;rina.pratama492@outlook.com;85279907726;Jl. Pahlawan No. 190;Balikpapan;Kalimantan Timur;19/08/2023
+CUS0548;CV Citra Mandiri;business;info@citramandiri81.co.id;227457202;Jl. Margonda No. 171;Jakarta;DKI Jakarta;07/07/2023
+CUS0549;Agus Hidayat;individual;agus.hidayat437@yahoo.com;89931950850;Jl. Asia Afrika No. 197;Jakarta;DKI Jakarta;23/12/2022
+CUS0550;CV Mega Persada;business;info@megapersada47.co.id;4113940499;Jl. Kebon Jeruk No. 287;Palembang;Sumatera Selatan;18/01/2022
+CUS0551;PT Garuda Mas Group;business;info@garudamas18.co.id;4115003592;Jl. Kenanga No. 59;Jakarta;DKI Jakarta;14/12/2023
+CUS0552;CV Bumi Persada Group;business;info@bumipersada97.co.id;246376490;Jl. Gajah Mada No. 137;Pontianak;Kalimantan Barat;22/08/2023
+CUS0553;UD Tunas Harapan Trading;business;info@tunasharapan7.co.id;227254777;Jl. Gajah Mada No. 232;Jakarta;DKI Jakarta;28/10/2022
+CUS0554;UD Nusantara Indah Indonesia;business;info@nusantaraindah61.co.id;618582938;Jl. Cempaka No. 189;Jakarta;DKI Jakarta;22/09/2022
+CUS0555;Yusuf Sembiring;individual;yusuf.sembiring964@gmail.com;84711624112;Jl. Ahmad Yani No. 58;Bandung;Jawa Barat;10/10/2023
+CUS0556;Putri Maulana;individual;putri.maulana155@gmail.com;89046827567;Jl. Pajajaran No. 11;Jakarta;DKI Jakarta;28/11/2023
+CUS0557;Fajar Saputra;individual;fajar.saputra23@gmail.com;89569557988;Jl. Mawar No. 235;Bandung;Jawa Barat;20/08/2021
+CUS0558;Dani Santoso;individual;dani.santoso920@yahoo.com;83437540254;Jl. Mawar No. 86;Semarang;Jawa Tengah;14/09/2021
+CUS0559;PT Citra Mandiri Trading;business;info@citramandiri24.co.id;313575047;Jl. Pahlawan No. 122;Medan;Sumatera Utara;20/06/2023
+CUS0560;Agus Suryadi;individual;agus.suryadi589@gmail.com;88452380552;Jl. Gajah Mada No. 230;Pontianak;Kalimantan Barat;27/08/2020
+CUS0561;PT Garuda Mas Trading;business;info@garudamas16.co.id;217787429;Jl. Melati No. 75;Jakarta;DKI Jakarta;10/01/2023
+CUS0562;Joko Santoso;individual;joko.santoso5@outlook.com;89854749297;Jl. Hayam Wuruk No. 58;Tangerang;Banten;27/07/2022
+CUS0563;CV Putra Mandiri;business;info@putramandiri18.co.id;226168761;Jl. Sudirman No. 206;Semarang;Jawa Tengah;07/02/2024
+CUS0564;Hendra Yuliana;individual;hendra.yuliana366@gmail.com;86093983430;Jl. Gatot Subroto No. 276;Jakarta;DKI Jakarta;18/06/2023
+CUS0565;UD Tirta Bening Indonesia;business;info@tirtabening66.co.id;2744262330;Jl. Melati No. 163;Malang;Jawa Timur;01/07/2022
+CUS0566;Ramli Firmansyah;individual;ramli.firmansyah967@gmail.com;86626565045;Jl. Gajah Mada No. 158;Pontianak;Kalimantan Barat;20/05/2023
+CUS0567;UD Cahaya Abadi Group;business;info@cahayaabadi94.co.id;3617972774;Jl. Mawar No. 148;Surabaya;Jawa Timur;01/07/2022
+CUS0568;Doni Pranata;individual;doni.pranata435@outlook.com;87299123478;Jl. Hayam Wuruk No. 34;Medan;Sumatera Utara;01/12/2020
+CUS0569;Anton Putri;individual;anton.putri91@gmail.com;87462879232;Jl. Imam Bonjol No. 149;Banjarmasin;Kalimantan Selatan;24/04/2023
+CUS0570;CV Sukses Mandiri Trading;business;info@suksesmandiri75.co.id;619289630;Jl. Kenanga No. 238;Surabaya;Jawa Timur;08/02/2023
+CUS0571;PT Inti Makmur;business;info@intimakmur20.co.id;616036006;Jl. Kebon Jeruk No. 242;Tangerang;Banten;04/04/2021
+CUS0572;Lina Manurung;individual;lina.manurung915@yahoo.com;87273014719;Jl. Pajajaran No. 186;Semarang;Jawa Tengah;11/09/2020
+CUS0573;CV Sejahtera Abadi Mart;business;info@sejahteraabadi34.co.id;3613006281;Jl. Gajah Mada No. 263;Jakarta;DKI Jakarta;05/04/2023
+CUS0574;UD Maju Jaya Trading;business;info@majujaya21.co.id;213451774;Jl. Hayam Wuruk No. 237;Balikpapan;Kalimantan Timur;10/02/2024
+CUS0575;Dimas Rahmawati;individual;dimas.rahmawati168@gmail.com;85565044818;Jl. Merdeka No. 94;Surabaya;Jawa Timur;20/11/2023
+CUS0576;Bayu Simatupang;individual;bayu.simatupang771@gmail.com;89554451895;Jl. Diponegoro No. 7;Manado;Sulawesi Utara;15/04/2024
+CUS0577;UD Bintang Timur Logistic;business;info@bintangtimur63.co.id;2746709506;Jl. Pahlawan No. 53;Bandung;Jawa Barat;07/10/2020
+CUS0578;PT Nusantara Indah Group;business;info@nusantaraindah25.co.id;228001908;Jl. Mawar No. 40;Jakarta;DKI Jakarta;22/03/2021
+CUS0579;PT Aneka Niaga;business;info@anekaniaga62.co.id;4116227335;Jl. Margonda No. 186;Banjarmasin;Kalimantan Selatan;26/08/2020
+CUS0580;CV Putra Mandiri Logistic;business;info@putramandiri23.co.id;611482504;Jl. Pajajaran No. 61;Surabaya;Jawa Timur;11/10/2020
+CUS0581;PT Permata Hijau Sentosa;business;info@permatahijau89.co.id;246157791;Jl. Diponegoro No. 108;Balikpapan;Kalimantan Timur;31/03/2021
+CUS0582;PT Tunas Harapan Indonesia;business;info@tunasharapan10.co.id;219124448;Jl. Setiabudi No. 221;Semarang;Jawa Tengah;23/09/2020
+CUS0583;PT Sinar Terang;business;info@sinarterang85.co.id;218869895;Jl. Asia Afrika No. 130;Jakarta;DKI Jakarta;28/03/2020
+CUS0584;PT Bintang Timur;business;info@bintangtimur97.co.id;223076911;Jl. Cempaka No. 106;Semarang;Jawa Tengah;29/03/2020
+CUS0585;Fajar Setiawan;individual;fajar.setiawan687@yahoo.com;81124955289;Jl. Veteran No. 259;Bandung;Jawa Barat;18/04/2023
+CUS0586;PT Sinar Terang;business;info@sinarterang68.co.id;244213634;Jl. Pemuda No. 88;Palembang;Sumatera Selatan;13/03/2023
+CUS0587;UD Maju Jaya Indonesia;business;info@majujaya28.co.id;3617148229;Jl. Margonda No. 95;Jakarta;DKI Jakarta;24/03/2024
+CUS0588;UD Sinar Terang Sentosa;business;info@sinarterang46.co.id;2748115080;Jl. Merdeka No. 264;Jakarta;DKI Jakarta;19/06/2022
+CUS0589;CV Sinar Terang Logistic;business;info@sinarterang16.co.id;3612850798;Jl. Anggrek No. 70;Bekasi;Jawa Barat;11/04/2021
+CUS0590;CV Citra Mandiri Trading;business;info@citramandiri72.co.id;212379891;Jl. Hayam Wuruk No. 253;Bandung;Jawa Barat;12/10/2022
+CUS0591;CV Bintang Timur Niaga;business;info@bintangtimur77.co.id;618448343;Jl. Veteran No. 284;Bogor;Jawa Barat;24/08/2020
+CUS0592;Eko Wibowo;individual;eko.wibowo439@gmail.com;82752071678;Jl. Raya Bogor No. 44;Bekasi;Jawa Barat;14/04/2022
+CUS0593;PT Mandiri Sentosa Mart;business;info@mandirisentosa89.co.id;223830705;Jl. Gatot Subroto No. 187;Medan;Sumatera Utara;01/09/2020
+CUS0594;CV Mitra Sejati Mart;business;info@mitrasejati16.co.id;248125354;Jl. Pajajaran No. 256;Medan;Sumatera Utara;11/02/2021
+CUS0595;UD Cendana Wangi Trading;business;info@cendanawangi97.co.id;2746974321;Jl. Melati No. 208;Jakarta;DKI Jakarta;24/07/2021
+CUS0596;Tono Permana;individual;tono.permana151@yahoo.com;82147732010;Jl. Gatot Subroto No. 256;Makassar;Sulawesi Selatan;19/09/2022
+CUS0597;PT Berkah Sejahtera Mart;business;info@berkahsejahtera78.co.id;4113562495;Jl. Pemuda No. 50;Surabaya;Jawa Timur;20/10/2023
+CUS0598;Andi Manurung;individual;andi.manurung770@outlook.com;88734778485;Jl. Kenanga No. 280;Surabaya;Jawa Timur;05/04/2024
+CUS0599;PT Tunas Harapan Indonesia;business;info@tunasharapan50.co.id;3616277427;Jl. Imam Bonjol No. 227;Jakarta;DKI Jakarta;06/02/2020
+CUS0600;Agus Wijaya;individual;agus.wijaya182@outlook.com;85276246719;Jl. Raya Bogor No. 252;Jakarta;DKI Jakarta;30/07/2022
